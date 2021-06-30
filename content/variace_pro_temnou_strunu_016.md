@@ -1,0 +1,242 @@
+---
+title: ""
+---
+
+11
+
+Kdysi brávala Růženka po večeři lux, jezdila po kobercích a utírala z nábytku prach.
+Dělala to však jen tehdy, když nešla do kina nebo ke Kocourkové.
+V tom případě chodila s luxem již před večeří.
+Babička říkala, že to volá o pomstu.
+„Prach se má utírat večer, to jo,“ říkala vídeňským dialektem, „ale luxovat se má ráno.
+Ale když ona ráno spí.
+Ona ráno spí a ani se nehne.
+To by jí nikdo netrpěl.
+Už jí to jednou zaražte.“
+Přestože tohle říkala babička hezkou řádku let, snad už od oné chvíle, kdy u nás začala viset nad pohovkou v rámu na zdi, bylo to marné.
+Bylo to jako tiché, ševelící šeptání stromového listí, když je na podzim provívá mírný větřík, nebo jako lehké chvějivé vlnění éteru, které lidské ucho nezaslechne.
+Nejlhostejnější bylo však samé Růžence.
+Brala večer lux, jezdila po kobercích a utírala prach, a když nikdo nebyl doma, jen já, ještě navíc k tomu všemu vyprávěla.
+
+Tehdy jsem musil za ní chodit z místnosti do místnosti podle toho, jak vláčela šňůry, a musil jsem poslouchat.
+Chtěl jsem to slyšet.
+Když byl ještě u nás Gini, vyprávěla o jakémsi knihkupci, který prodával pohádky a vázal je do kůže, byl z nejlepší rodiny a všechno věděl a znal.
+Jednoho dne o něm přestala mluvit a začala o panu učiteli.
+To bylo tenkrát, když jsem měl jít do školy a místo toho u nás nastoupil pan učitel.
+Později začala o jakési spisovatelce, která bydlila někde za rohem v Husově třídě a psala nejlepší knihy na světě, třeba o peci ohnivé.
+Sotva knížky dočetla, sama začala vykládat o pecích.
+Kdekomu a všude.
+Třeba u Hronů, kam chodila jen tehdy, když byla doma správcová.
+Také u řezníka Sysla, kam chodila pro maso.
+Rovněž u mlékařky a u ševce, kde jsem měl právě v opravě střevíce.
+Ale samozřejmě nejdřív letěla ke Kocourkové, která byla odjakživa na takové věci neobyčejně zvědavá.
+Celé dopoledne se vydržely bavit v krámě o pecích a Kocourková toho dne hořela hrůzou a neprodala ani kilo brambor.
+Viděl jsem to na vlastní oči, neboť jsem byl poslán do krámku, abych Růženku přivedl domů.
+Abychom se vůbec dočkali oběda.
+A řezníkovi toho dne ukradli z pultu kus masa, mlékařku někdo ošidil s pětikorunou a švec nám vydal místo mých střevíců úplně cizí neznámé boty.
+V noci bylo slyšet z kuchyně křik, Růžence se zdálo, že ji honí čerti.
+To vše zavinily knížky té spisovatelky z Husovy třídy, které byly do počtu dvě a měly název: „O třech mládencích z pece ohnivé.“
+Ale i to Růženku přešlo a na spisovatelku zapomněla, mluvila o jiných lidech, například o staré vdově profesorce z Hradební, když jsem k ní začal chodit na klavír, o dědečkovi, jaký to byl hodný dobrý pán, když jsme se od něho vrátili z Korutan, o elektrikáři, instalatéru a malíři… a pak též dost o Hronovi, jehož se odjakživa bála.
+O jednom člověku však mluvila stále a zdálo se, že nejraději: o babičce.
+Ale to jen tehdy, když nikdo nebyl doma, leda jen otec v pracovně.
+
+A tu pak vykládala to, co jsem dávno věděl, jak babička jezdila celý život jen v kočáře, v kočáře s párem běloušů anebo s dvěma páry, ale vykládala například i to, co jsem tak přesně nevěděl, nýbrž jen povšechně a mlhavě, jak v tom kočáře s bělouši jezdila do Itálie.
+Byla to dlouhá cesta, ta cesta z Vídně nebo z Korutan přes Alpy, ale babička tam jezdila každý rok, a to kvůli muzeím a hudbě, a pak také kvůli nádhernému obrazu, který visel na jednom polozbořeném zámku v Kalábrii.
+Když někam přijela, čekalo ji služebnictvo v modrých uniformách, stříbrných knoflících a bílých rukavičkách.
+Stálo ve špalíru na nádvoří, a sotva koně zastavili, komorník přiskočil a pomohl jí z kočáru.
+Ten jediný jí směl políbit ruku.
+Pak ještě fořt.
+Ostatní směli pouze stát a klanět se.
+Pan farář jí ruku nikdy nelíbal, ale zato šel vedle ní, když stoupala po schodech.
+Ale nejraději měla Giniho, který byl velmi krásný hoch a tehdy byl ještě velmi malý.
+
+Jednou jsem se zeptal matky, zda tohle všechno, co Růženka říká, je pravda, a matka kývla.
+Řekla, že babička měla ráda Čechy a Poláky, i když jim leccos vytýkala, Maďary méně, ale i je měla ráda a vážila si jejich řeči, Němce však nemohla ani vidět.
+Policii nesnášela ani v samém Rakousku, a když dlela ve Vídni, nejradši chodila do chrámu svatého Michaela, kde sedala v přední lavici.
+Byla dost zdrženlivá a uzavřená, ale neskonale dobrá.
+A Růženka pak ještě tajně dodala, že také těžko snesitelná.
+Ke stáru. Že četla jen knížky o duších v očistci a že by se byl z ní člověk zjančil.
+Ale to dodala opravdu jen tajně a šeptem a jen když vskutku nebyl nikdo doma.
+Nanejvýš otec v pracovně.
+A přitom čistila koberce a z nábytku otírala prach.
+
+Vzpomněl jsem si na ta Růženčina večerní vyprávění s luxováním jednou večer, když nikdo nebyl doma, týden po příhodě v parku, a Růžence jsem to řekl.
+
+„Však luxuju večer dodnes,“ odvětila ten večer, co jsem jí to řekl, týden po příhodě z parku, „luxuju večer dodnes všude, jen ne v otcově pracovně, však víme proč.“
+A já mlčky kývl, věděl jsem, do otcovy pracovny přece nikdo z nás nesměl, leda výjimečně a jen tenkrát, když tam byl otec, i ona tam směla luxovat jen v jeho přítomnosti.
+Ale že luxuje večer dodnes všude jinde, jsem dost pochyboval.
+Od té doby, co jsem chodil do gymnázia, určitě neluxovala nikde… Náhle, jako by četla mé myšlenky a jako by ji něco chytlo, jako by si na něco vzpomněla, na něco zvláštního, divného, nepochopitelného… pohlédla na mě a řekla, že hned musí pro lux.
+Hned musí pro lux, abych viděl, že vskutku pořád večer luxuje, jen ne v pracovně… neboť je právě večer a nikdo není doma.
+A okamžitě odběhla a za vteřinu se vrátila s luxem.
+Zapnula jej v purpurovém pokoji, začala jezdit po koberci a začala vyprávět.
+Vyprávět o něčem zvláštním, o něčem zvláštním, divném, nepochopitelném, o paní Kratinové…
+
+Paní Kratinová je celá černá, vlasy má bílé jako mléko a v obličeji je bledá a vyhublá, ale kdo na ni pozorně pohlédne, vidí stopy její někdejší krásy.
+Bývala krásná jako žena císaře, kterou zavraždili v Ženevě.
+Bylo to příliš dávno, takže se na to může pamatovat jen babička, která prý císařovnu osobně znala.
+Ale paní Kratinová žila ještě dávno před císařovnou, takže tu nepamatuje už ani babička.
+A přesto ji znala.
+Právě z Itálie, kam jezdila každý rok s párem běloušů nebo s dvěma páry.
+Z toho obrazu na polozbořeném zámku v Kalábrii… Ostatně znal paní Kratinovou kdekdo, a zná dodnes.
+Potkalo ji totiž hrozné, neuvěřitelné neštěstí…
+
+A tu se náhle Růžence rozechvěl hlas, jako by na ni šly mdloby, a šňůra od luxu se jí začala v ruce třást, divže jí z ruky nevypadla, začala vyprávět jinak než dosud, udýchaně, přerývaně, vzrušeně, a přitom jak vyprávěla, dočista zapomněla jezdit po koberci, takže vysávala prach stále na jednom místě, právě pod klavírem, kam se snad vůbec ani nepráší…
+
+Paní Kratinová se měla vdávat, vyprávěla, měla si brát jednoho hraběte, jemuž se ztratil nevlastní syn.
+Nikdo netušil, kde ten syn je, ač jej dal hrabě hledat po celé zemi.
+Říkalo se, že mu utekl, neboť hrabě byl zlý otčím, ale nebylo to zaručené.
+Paní Kratinová si tedy měla brát tohoto hraběte, ale ona ho nechtěla.
+Ne proto, že se mu zaběhl syn, ale protože milovala jiného.
+Jiného hraběte.
+Ale tento jiný hrabě naneštěstí nemiloval ji.
+A nejenže ji nemiloval, ale chtěl ji dokonce zabít.
+Neboť jeho vlastní bratr byl kdysi zabit otcem paní Kratinové a on přísahal, že se za něho na paní Kratinové pomstí.
+Ale ten první hrabě, jemuž se ztratil nevlastní syn a jehož paní Kratinová nechtěla, paní Kratinovou naopak velmi miloval, miloval tak velice, že ji chtěl v noci unést na svůj zámek a násilím ji přimět k sňatku.
+Když se to paní Kratinová dozvěděla, nesmírně se zděsila a přemýšlela, jak se skrýt.
+K pravému milému utéci nemohla, když ji nemiloval a chtěl ji zabít, to dá rozum.
+A tu prý komorná paní Kratinové, nějaká Zelenková, přišla na úžasný nápad.
+Navrhla, aby se paní Kratinová převlékla do mužských šatů a dělala, že je cizí mládenec, který se _jí_ přišel dvořit.
+Tak prý unikne oběma.
+Hraběti, kterého miluje, ale on nemiluje ji a chce ji zabít, i tomu druhému, který ji miluje a chce ji unést, ale ona nemiluje jeho.
+A to se stalo. Paní Kratinová se převlékla do chlapeckých šatů a žila na svém vlastním zámku jako páže s dýkou u pasu, které se jí přišlo dvořit a vzít si _ji_.
+Jednoho krásného dne snad už měla být dokonce i svatba… ale nedošlo k ní, neboť ta komorná Zelenková si naštěstí v poslední chvíli všimla, že to nejde.
+Že by u oltáře byla jen _jedna jediná osoba_… A tu se dozvěděl milý paní Kratinové, jenž ji nemiloval, ale chtěl zabít, že na zámku paní Kratinové žije jakýsi mládenec, který si snad má paní Kratinovou brát, a dostal nápad.
+Převlékl se do šatů hraběte, kterému se ztratil nevlastní syn a jehož paní Kratinová nechtěla, a v noci toho mládence ze zámku paní Kratinové unesl na svůj zámek.
+Nevěděl, že vlastně unáší paní Kratinovou, kterou chce zabít, myslil, že unáší páže, které si má paní Kratinovou brát, a paní Kratinová zase nevěděla, že její únosce je její milý, který by ji nejradši zabil, myslila, že je to hrabě, před nímž se schovává, aby ji neunesl a násilím nepřiměl k sňatku.
+Byla však po cestě na tom koni ještě dost klidná, protože měla za pasem svou pážecí dýku, a pak se také dost spoléhala na Zelenkovou.
+Když se octla na únoscově zámku, stalo se, že únosce, převlečený za druhého hraběte, přišel za ní v noci do ložnice a v košíku přinášel všelijaké dobroty, jako krupičnou kaši s medem, prak, cínové vojáky, oříšky, sladké pití a také jeden veliký cukrový dort… A tu jak vtrhl do dveří, paní Kratinová vykřikla a tou pážecí dýkou, kterou měla za pasem, jej probodla… Když umíral, zvolal, aby mu to Pán Bůh odpustil… Tu poznala paní Kratinová podle hlasu, že vlastně zabila svého milého, který ji nemiloval a chtěl ji zabít, a vykřikla, že ji přece jen miloval a nechtěl zabít, jak kdysi přísahal, tu že je přece jasný důkaz, a ze zoufalství se nad ním probodla tím samým svým nožem, tak je pak druhý den ráno našli… A hrabě, který ji vskutku miloval a chtěl ji unést, se nikdy nedozvěděl, kam paní Kratinová zmizela, neboť byla na únoscově zámku pochována, tak jak byla, v pážecích šatech, v nichž chodila a klamala své okolí.
+Byl nesmírně zoufalý.
+Jednoho dne se však dověděl, že ten mrtvý mládenec na únoscově zámku nebyl nikdo jiný než jeho nevlastní syn, který mu před časem utekl, ač to nebyla pravda, a z ukrutného žalu se zastřelil.
+Nakonec se vše dozvěděl jeho pravý nevlastní syn, kterého tak dlouho marně hledali, a z nějakého neznámého důvodu svého nevlastního otce s paní Kratinovou proklel…
+
+Až sem Růženka čistila koberec na jednom místě, pod klavírem, mluvila hlasitě, vzrušeně, přerývaně a šňůra od luxu se jí v ruce chvěla tak strašně, že jí mohla co chvíli vypadnout.
+Pak se trochu vzpamatovala.
+Popojela s luxem pod zrcadlo k telefonu a pak se zastavila znovu.
+Neboť případ ještě nekončil.
+Od té doby totiž, řekla, je paní Kratinová celá černá, vlasy má bílé jako mléko a obličej bledý a vyhublý, ač kdo se dobře podívá, vidí v něm stopy její zašlé krásy…
+
+Bylo to k nevíře.
+K nevíře, byť mi to připadalo poněkud zmatené.
+Poněkud zmatené, že jsem tomu vlastně vůbec nerozuměl… A tak jsem dostal podezření, že to Růženka popletla, a řekl jí to.
+Zda v tom není omyl anebo snad nějaká mýlka… Že tomu vůbec nerozumím… A tu trhla luxem, pustila šňůru a hrozně se urazila.
+Řekla, že mi už do nejdelší smrti nic nepoví, že to bylo tak, jak říká, že to vůbec nechápu… A tím zase hrozně urazila mě, a tak jsme spolu ten večer přestali mluvit.
+Chytla lux, praštila s ním do spíže a odešla do kuchyně.
+Dva příští večery se na lux ani nekoukla, třetí večer ho opět vytáhla a začala jezdit v předsíni u hodin, aniž řekla slovo.
+Možná však, že to bylo proto, že byl doma otec a matka, bylo to za devět dní po příhodě z parku… Další den po večeři však otec odešel a někam odešla i matka, a tu se náhle Růženka udobřila.
+„Matka odešla k ženě generála,“ řekla náhle v kuchyni, „žena generála volala, že umírá…“ Žena generála byla dost často nemocná, ale málokdy matku volala.
+Volala ji zpravidla jen tehdy, když se jí zdálo, že to s ní vypadá na smrt, a to nebylo častěji než dvakrát do měsíce.
+Jakmile matka vyřkla, že jde k ženě generála, která umírá, Růženka vždy velmi pookřála a letěla připravit černé smuteční šaty.
+Ale matka ji vždycky zadržela a vzala si jiné, jen mírně tmavé šaty.
+A teď tedy odešla a i otec byl pryč, Růženka se udobřila a prohlásila, že to s tou paní Kratinovou bylo tak, jak řekla, a že se nemýlí.
+„Nejsem přece hloupá,“ řekla, „a vyprávět nedovede jen Hron, já také.
+Byl o tom přece i film, viděla jsem ho s Kocourkovou.
+Paní Kratinová je od té doby nešťastná…“
+
+A sotva to dořekla, musil jsem už opět pochybovat.
+Ač jsme se právě udobřili.
+Jak je možné, že je paní Kratinová nešťastná, když už dávno není? Když už je dávno mrtvá? Když se to stalo dávno před ženou císaře, kterou znala nanejvýš babička? A tak jsem se Růženky chtěj nechtěj zeptal, ale opatrně, aby se opět neurazila a nepřestala mluvit.
+Jak je to možné.
+Zda se paní Kratinová snad – řekl jsem velmi opatrně – nezjevuje… A tu Růženka nadšeně vykřikla, že to je právě to a že by mi to byla řekla už předevčírem, kdybych se byl s ní nehádal… A protože bylo po večeři, otec byl pryč a matka byla u ženy generála, rychle došla pro lux a začala čistit koberce, nejprve zas v purpurovém pokoji pod klavírem a pak pod zrcadlem u telefonu a pak jinde a já za ní začal chodit z místnosti do místnosti podle toho, jak vláčela šňůry, a poslouchal.
+Jak je možné, že je paní Kratinová nešťastná, když už dávno není.
+Když je dávno mrtva.
+Když se to stalo dávno před ženou císaře, kterou zavraždili v Ženevě…
+
+A tu nejprve řekla, že je nešťastná proto, že zabila milého.
+Z nevýslovné bolesti pláče, pořád pláče, vybledlými lícemi, chvějícími se rty, bílými vlasy.
+V pláči kleká u oltářů a pod kříži, modlí se růženec bolestný, litanie, prosí o mši za svou bídnou duši, vše marné.
+Zatím. Zatím jí nikdo nemůže pomoci.
+
+A tak, řekla potom, kromě kostelů, kaplí a katedrál chodí i po hřbitovech, po hlubokých, zaprášených sklepech, mezi jeskyněmi a sloupy se kmitá jako přelud, opuštěné hrady a zámky navštěvuje a neleká se ani ozbrojených strážců, po polích a zahradách plyne za větrů a bouří, po lesích a horách v plískanici a nečase se honí a volá do vzduchu a hledá spásu a klid.
+Protože je zatím vše marné, navštěvuje i různé byty, salóny a ložnice, chodby v činžácích a chaty u vody, skautské stany a také nemocnice a školy, ale i to je marné.
+A jde-li navštívit neposlušné děti, pak přichází v noci oknem a ve dne dveřmi, anebo ve dne nepřichází a jenom v noci.
+I ve spánku… Na nohy si připíná dřevěné podpatky, které při chůzi klapou, takže je slyšet z dálky.
+Z dálky, když se blíží k lůžku.
+Neposlušných dětí… Černá, s vlasy bílými, bledá a vyhublá v obličeji od slz…
+
+A tu mě napadlo, abych se Růženky zeptal, odkud nešťastnou paní Kratinovou zná.
+Jak se s ní vůbec seznámila? Zda ji zná jen z toho filmu, co viděla s Kocourkovou, anebo zda se jí snad také dokonce nezjevila.
+A tu řekla, že nikoli.
+Že se jí nezjevila a tamto že byl jen takový obyčejný film… Že ji zná z obrazu, který visí daleko na jihu, v Itálii, na jednom polozbořeném kalábrijském zámku.
+Z obrazu, který zná i babička, když se tam na něj jezdila dívat.
+V kočáře s párem běloušů anebo i s dvěma páry.
+Je to právě ten zámek, na němž paní Kratinová probodla milého, když za ní v noci přišel.
+Obraz má překrásně vyřezávaný rám a paní Kratinová jej malovala sama.
+Sama sebe v ložnici v zrcadle.
+V nešťastné noci před vraždou.
+Chvíli předtím, než se otevřely dveře a on vešel s košíkem dobrot a velkým cukrovým dortem.
+Portrét krásného pážete…
+
+A tu jsem se opět podivil, ale dřív než jsem mohl promluvit, Růženka pokračovala, Že se na ten obraz jezdí dívat rytíři, kněžny, princezny i králové z celého světa, před obrazem si sednou do aksamitového křesla a sedí tam po dlouhé hodiny ve zbožném rozjímání, dojati bolestným výrazem tváře a přesmutnýma očima, pláčou.
+Pláčou nad lidskou bídou.
+Nad lidskou bídou na obraze.
+Rytíři, kněžny, princezny i králové z celého světa.
+Jako babička, která tam také jezdívala.
+V kočáře s párem nebo s dvěma páry běloušů.
+Pláčou jako ona na obraze, dáma v černém…
+
+Konečně Růženka dojezdila koberec, byli jsme právě v jídelně a musila vypnout lux, aby jej mohla přetáhnout do vedlejší místnosti, a já využil té skromné chvilky, abych se konečně zeptal.
+Nesrovnávalo se mi to v hlavě čím dál víc.
+Kdo vlastně na obraze je, zda paní Kratinová, nebo páže? Vskutku to vůbec nechápu… A tu Růženka řekla, že tohle nechápou ani učenci.
+Že je to záhada, kterou dodnes nikdo nevyzkoumal.
+Kdo vlastně na obraze je.
+Koho paní Kratinová kreslila v zrcadle té kruté noci, než se otevřely dveře a on vešel s košíkem dobrot.
+Někteří učenci říkají, že kreslila sebe, jiní říkají, že kreslila páže, za které byla převlečena, a opět jiní tvrdí, že kreslila toho milého, který ji nemiloval a chtěl zabít.
+Že záhada bude rozluštěna, až najde paní Kratinová klid.
+Až přestane bloudit světem a plakat vybledlými lícemi, chvějícími se rty a bílými vlasy.
+Pak se teprve pozná, koho vlastně ten obraz představuje.
+Ale pak už nebudou k ní jezdit rytíři, kněžny, princezny a králové a plakat nad lidskou bídou, už to nebude třeba.
+Ale zatím ještě ano… A tu mi zase něco blesklo a zeptal jsem se.
+Odkud se tedy vlastně vůbec ví, že je paní Kratinová v černém, má bledé líce a bílé vlasy? Jestliže je to na obraze, zda by to pak vůbec byl mládenec? Nebo se ví, jak paní Kratinová vypadá, jen z toho, jak se zjevuje? A tu Růženka řekla, že mám pravdu.
+Že se to vskutku neví z obrazu, nýbrž z toho, jak se zjevuje.
+U oltářů, pod kříži, ve sklepech, zámcích, starých opuštěných palácích, močálech, bytech a u neposlušných dětí.
+Nedej bože, aby i u nás… A ví se to i z toho filmu, který viděla s Kocourkovou… A nakonec řekla, že tak to je a je to všechno.
+Celý ten hrozný příběh o nešťastné paní Kratinové… a matka se co chvíli vrátí od ženy generála.
+A vypnula lux a dala jej do spíže.
+
+Bylo mi paní Kratinové velmi líto.
+Stále jsem na ni myslil.
+Myslil celý zbývající večer i příští den.
+Chvílemi se mi zdálo, že si tak zlý osud nezasloužila, když nepravého hraběte zabila omylem.
+Že její milý byl vlastně vinen víc než ona.
+Protože ho měla ráda a on ji chtěl zabít.
+Takže ho vlastně pouze předešla…
+
+A když náhodou druhý den kvečeru, desátý den po příhodě z parku, opět nikdo nebyl doma, řekl jsem Růžence, co mě napadlo.
+Kdo je vinen víc… A tu hned chytla lux a začala jezdit po kobercích a utírat z nábytku prach, ač bylo dlouho do večeře a po večeři nikam nešla.
+Prohlásila, že ať je to jak chce, paní Kratinová zabila a musí trpět.
+„To přece nejde, aby si její duše neodbyla očistec,“ řekla, „očistec si musí odbýt každá duše, to by nebyla žádná spravedlnost.
+Ale nakonec spásy dojde, jak jsem už včera řekla, na věčnost to nemá.“
+A řekla, že její milý, jenž ji nemiloval, musil ostatně trpět také.
+Také bloudil po lesích, polích, horách, novostavbách, močálech, nádražích a opuštěných palácích… i to bylo přece smutné, možná ještě smutnější, ač za nic nemohl, byť chtěl paní Kratinovou zabít.
+„Jeho duše už však spásy došla,“ řekla, „neboť jeho očistec skončil.
+Dříve než její.
+Protože v jeho případě to byla pouhá krevní povinnost…“
+
+Pak náhle přestala čistit koberec, byli jsme právě v předsíni mezi věšákem se zrcadlem a hodinami, jež jdou o deset minut napřed.
+Položila lux na zem a řekla, že mi musí ještě něco sdělit.
+Že na to včera úplně zapomněla.
+Ještě není konec, to nejhlavnější… Na polozbořeném zámku v Itálii visí vedle prvního obrazu v krásně vyřezávaném rámu ještě druhý obraz bez rámu, a na něm je právě on.
+Ten její milý, jenž ji nemiloval a jehož probodla.
+Když k ní v noci přišel s košíkem.
+Neví se však, zda to není ten pravý hrabě, co ji miloval, neboť ten večer byl za něho převlečen.
+Někteří učenci dokonce říkají, že to není žádný z nich, nýbrž je to ten nevlastní syn hraběte, co utekl.
+A ten druhý obraz je ještě daleko krásnější a smutnější než první obraz pážete, dámy v černém, i když nemá rám… Vlastně ti rytíři, kněžny, princezny i králové z celého světa jezdí na ten kalábrijský zámek kvůli tomu druhému obrazu.
+Nad ním pláčou víc než nad prvním, kvůli němuž tam nejezdí.
+Pláčou nad lidskou bídou… I babička tam jezdila kvůli druhému obrazu.
+V kočáře s párem běloušů nebo s dvěma páry.
+Ke stáru četla knížky o duších v očistci a byla vůbec těžko snesitelná… A poněvadž jsem na strašný případ paní Kratinové v příštích dnech stále ještě myslil, další otázky se mi jen hrnuly.
+Třeba proč zaběhlý syn pravého hraběte otce a nešťastnou paní Kratinovou proklel.
+Protože však celý ten děj byl tak zmatený a spletitý, hned jsem zase ty otázky zapomínal, takže ani na jednu z nich jsem se Růženky nemohl zeptat.
+Ale jednou jsem si přece jen jednu otázku připomenul a zeptal se.
+Jednou po večeři, když nikdo nebyl doma a Růženka začala tahat lux, bylo to za tři neděle po příhodě z parku.
+Odvětila, že už řekla všechno a do tohohle jí nic není.
+To že by věděla leda Zelenková, komorná, ale ta je už dávno pod drnem jako všichni, kteří kdysi byli a žili a dnes dávno už nejsou a nežijou.
+Neboť tak pomíjí lidský život a všechna sláva světa.
+A začala mluvit o Syslovi, k němuž chodí pro maso, o Hronovi, že má sekeru, o ženě generála, o blížících se Vánocích… a pak se začala zmiňovat o otcově pracovně.
+Že tam nikdo z nás nesmí, leda výjimečně, když je tam otec, a že vlastně ani pořádně nevíme, jak to tam vypadá.
+Že nejvýš jen bezpečně víme, že je tam ten velký červený tepich, podobný tomu, který byl u dědečka… Ale byla to jen taková malá nesmělá zmínka, kterou hned přešla, jen takové tiché zašeptání, takové nesmělé zachvění, nic víc.
+Začala se znenáhla a opatrně zmiňovat o politické situaci.
+O _napjaté_ politické situaci, jak říká, hlavně v sousední dědečkově zemi, kam prý snad začínají pronikat barbaři z vedlejška…
+
+To mě však už tak moc nebavilo, a tak jsem přestal za Růženkou chodit, když po večeři anebo před ní luxovala byt.
+Ostatně jej pak opět luxovala čím dál méně, čím dál méně a méně, a nakonec už s luxem nebyla k vidění vůbec, docela tak stejně jako předtím…
