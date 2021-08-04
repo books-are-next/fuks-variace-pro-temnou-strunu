@@ -5,176 +5,210 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ladislav Fuks",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-04T17:35:20.930Z"
+      "modified": "2021-08-04T20:40:53.583Z"
     },
     "chapters": [
       {
-        "title": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_001.md",
         "xhtml": "variace_pro_temnou_strunu_001.xhtml"
       },
       {
-        "title": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_002.md",
         "xhtml": "variace_pro_temnou_strunu_002.xhtml"
       },
       {
-        "title": "Variacepro temnou strunu",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_003.md",
         "xhtml": "variace_pro_temnou_strunu_003.xhtml"
       },
       {
-        "title": "Znění tohoto textu vychází z díla Variace pro temnou strunu tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1988. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_004.md",
         "xhtml": "variace_pro_temnou_strunu_004.xhtml"
       },
       {
-        "title": " ",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_005.md",
         "xhtml": "variace_pro_temnou_strunu_005.xhtml"
       },
       {
-        "title": "1",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_006.md",
         "xhtml": "variace_pro_temnou_strunu_006.xhtml"
       },
       {
-        "title": "2",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_007.md",
         "xhtml": "variace_pro_temnou_strunu_007.xhtml"
       },
       {
-        "title": "3",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_008.md",
         "xhtml": "variace_pro_temnou_strunu_008.xhtml"
       },
       {
-        "title": "4",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_009.md",
         "xhtml": "variace_pro_temnou_strunu_009.xhtml"
       },
       {
-        "title": "5",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_010.md",
         "xhtml": "variace_pro_temnou_strunu_010.xhtml"
       },
       {
-        "title": "6",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_011.md",
         "xhtml": "variace_pro_temnou_strunu_011.xhtml"
       },
       {
-        "title": "7",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_012.md",
         "xhtml": "variace_pro_temnou_strunu_012.xhtml"
       },
       {
-        "title": "8",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_013.md",
         "xhtml": "variace_pro_temnou_strunu_013.xhtml"
       },
       {
-        "title": "9",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_014.md",
         "xhtml": "variace_pro_temnou_strunu_014.xhtml"
       },
       {
-        "title": "10",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_015.md",
         "xhtml": "variace_pro_temnou_strunu_015.xhtml"
       },
       {
-        "title": "11",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_016.md",
         "xhtml": "variace_pro_temnou_strunu_016.xhtml"
       },
       {
-        "title": "12",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_017.md",
         "xhtml": "variace_pro_temnou_strunu_017.xhtml"
       },
       {
-        "title": "13",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_018.md",
         "xhtml": "variace_pro_temnou_strunu_018.xhtml"
       },
       {
-        "title": "14",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_019.md",
         "xhtml": "variace_pro_temnou_strunu_019.xhtml"
       },
       {
-        "title": "15",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_020.md",
         "xhtml": "variace_pro_temnou_strunu_020.xhtml"
       },
       {
-        "title": "16",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_021.md",
         "xhtml": "variace_pro_temnou_strunu_021.xhtml"
       },
       {
-        "title": "17",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_022.md",
         "xhtml": "variace_pro_temnou_strunu_022.xhtml"
       },
       {
-        "title": "18",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_023.md",
         "xhtml": "variace_pro_temnou_strunu_023.xhtml"
       },
       {
-        "title": "19",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_024.md",
         "xhtml": "variace_pro_temnou_strunu_024.xhtml"
       },
       {
-        "title": "20",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_025.md",
         "xhtml": "variace_pro_temnou_strunu_025.xhtml"
       },
       {
-        "title": "21",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_026.md",
         "xhtml": "variace_pro_temnou_strunu_026.xhtml"
       },
       {
-        "title": "22",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_027.md",
         "xhtml": "variace_pro_temnou_strunu_027.xhtml"
       },
       {
-        "title": "23",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_028.md",
         "xhtml": "variace_pro_temnou_strunu_028.xhtml"
       },
       {
-        "title": "24",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_029.md",
         "xhtml": "variace_pro_temnou_strunu_029.xhtml"
       },
       {
-        "title": "25",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_030.md",
         "xhtml": "variace_pro_temnou_strunu_030.xhtml"
       },
       {
-        "title": "26",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_031.md",
         "xhtml": "variace_pro_temnou_strunu_031.xhtml"
       },
       {
-        "title": "27",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_032.md",
         "xhtml": "variace_pro_temnou_strunu_032.xhtml"
       },
       {
-        "title": "28",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_033.md",
         "xhtml": "variace_pro_temnou_strunu_033.xhtml"
       },
       {
-        "title": "Ladislav FuksVariace pro temnou strunu",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "variace_pro_temnou_strunu_034.md",
         "xhtml": "variace_pro_temnou_strunu_034.xhtml"
       }
@@ -243,6 +277,7 @@
     "github": {
       "user": "books-are-next",
       "repo": "fuks-variace-pro-temnou-strunu"
-    }
+    },
+    "generatedAt": 1628109654184
   }
 }
