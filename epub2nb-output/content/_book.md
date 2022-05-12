@@ -10,6 +10,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2020-02-06T00:00:00.000Z'
 readingOrder:
+  - promo.html
   - variace_pro_temnou_strunu_001.html
   - variace_pro_temnou_strunu_002.html
   - variace_pro_temnou_strunu_003.html
