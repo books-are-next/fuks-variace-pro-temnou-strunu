@@ -138,10 +138,14 @@ kostelíček s věží nízkou,
 z věže pak slyšeti zvuky  
 hájem a sousední vískou._
 
+  
+
 _Není zvuk to zvonku jemný,  
 tratící se v blízké stráně,  
 dřeva tě to rachot temný,  
 zvoucí lid do chrámu Páně._
+
+  
 
 „Jak vidíte,“ řekl češtinář, odkládaje knihu, „nebude Poklad tak lehký. Budeme potřebovat řehtačky. Jsou Velikonoce, Velký pátek…,“ řekl a pohlédl na mě, „Velikonoce, a přitom máme… září. Ale což to,“ řekl, „my budeme potřebovat také nějaké stříbro a zlato. To jsem zvědav, kde ho sebereme… Tieftrunk, pojďte k tabuli. K úvodu nakreslíme na tabuli pahorek s buky…“
 
@@ -163,10 +167,14 @@ Tieftrunk šel k tabuli a češtinář vzal křídu a jal se malovat jakýsi 
 
 A když ředitel mlčel, češtinář se obrátil na kejklíře Doubka a vyzval ho, aby panu řediteli přečetl na ukázku první sloku z Pokladu na straně pět, který právě probíráme. A Doubek otevřel Kytici a četl:
 
+  
+
 _A tu na dveře buch, buch, buch!  
 burácí zvenčí její druh:  
 „Vstávej, umrlče, nahoru,  
 odstrč mi tam tu závoru!“_
+
+  
 
 „To není Poklad,“ řekl pan profesor, „to je Svatební košile. Doubek se spletl. To víte, chudáčci,“ pohlédl s povzdechem na modrorudou vousatou tvář ředitele, „to jim odpusťte. Mají plnou hlavu možné války. Od rána do večera nemyslí na nic jiného než na cé pé o.“
 
