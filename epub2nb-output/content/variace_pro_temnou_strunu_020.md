@@ -3,8 +3,6 @@ title: '15'
 contentType: prose
 ---
 
-  
-
 A pak jsme nevěděli, máme-li se smát anebo plakat, bylo třiadvacet stupňů tepla, lidé se už chodili koupat, ale kvůli tomu to nebylo, bylo to přece kvůli staré známé věci, že totiž ten pátek měl být první hodinu zeměpis – zeměpisář si totiž už dříve prohandloval tu svou první páteční hodinu přírodopisu za zeměpis – a poslední hodinu čeština. Z češtiny jsme měli velkou radost. Pan profesor měl dnes začít s výkladem nové Erbenovy básně. Dosud jsme nevěděli, která to bude, zbývalo jich moc, za ten školní rok, jenž se pomalu chýlil ke konci, probral s námi vlastně jen Vodníka, Polednici a Záhořovo lože… Ze zeměpisu jsme však byli zoufalí. Neboť zeměpisář začal s novým trápením…
 
 Začal s ním vlastně už hned týden po neštěstí v dědečkově zemi a týkalo se „minulé hodiny“ a omlouvání. Začal nenápadně, tiše, jako by si předl nějaký nevinný šáteček na kolovrátku do vlastní kapsy. Když jsme viděli, že splétá síť, přece ještě jsme byli klidní. Přece jsme měli zkušenost z loňského podzimu s otázkou, co jsme měli v zásobě blaženou větu, kterou tenkrát navrhl Bronowski, větu, že minulou hodinu jsme neměli vyučování… Jenže netrvalo dlouho a síť byla upletena, zeměpisář ji náhle vrhl do lavic jako temný rybář Uriel… a uvízla v ní celá třída. Neboť tentokrát se ukázalo, že mu nejde o to, _co jsme měli_ minulou hodinu, nýbrž pouze o tu „minulou hodinu“, a místo toho „co jsme měli“ dal to omlouvání. Poznali jsme, že je to vlastně zcela jiná věc.
@@ -66,8 +64,6 @@ Chvojka otevřel okna, pan profesor nám pokynul a začali jsme sborově zpíva
 _Byl Štědrý večer, byl lásky hlas,  
 hrdliččin zval ku lásce čas…_
 
-  
-
 četl Chvojka a pan profesor křikl „dost“, pochválil jej a posadil. Pak řekl, že nám vyloží štědrovečerní zvyky našich předků, jako krájení jablek, lití olova a _házení střevíců_, a zeptal se, kdo má jablko. Ale protože čeština byla poslední hodinu, nikdo už jablko neměl, všechna se snědla, pokud vůbec v tomto čase byla. „To nic,“ řekl pan profesor, „krájení jablek si tedy necháme napříště.“ A vyzval Kolomaze, aby příště přinesl jablko, Kolomazovi mají totiž koloniální obchod.
 
 „Olovo zde také nemá nikdo?“ zeptal se, a když jsme zakřičeli, že ne, řekl:
@@ -86,10 +82,14 @@ kravám po výslužce,
 kohoutovi česneku,  
 hrachu jeho družce._
 
+  
+
 _Ovocnému stromoví  
 od večeře kosti  
 a zlatoušky na stěnu  
 tomu, kdo se postí._
+
+  
 
 „Štědrovku a zlatoušky si necháme na příští hodinu s těmi botami,“ řekl pan profesor, když jsme dočetli, „k tomu je třeba tabák a zrcadlo. Dnes si probereme jen část.“ A tu otevřel dva z těch pytlíků, které přinesl, a z jednoho nabral hrst hrachu a z druhého kosti. Byly to kosti z nějakého kuřete či kachny. Nechal hrách a kosti kolovat po třídě, ale nedošlo to dál jak do druhé lavice střední řady. Pan profesor zakřičel, abychom přestali hrách a kosti po sobě házet, jinak že okamžitě přeruší výklad a nevyndá to, co má v třetím sáčku a v aktovce. Když jsme přestali s házením a trochu se uklidnili, začal vykládat o _zamrzlém rybníku._
 

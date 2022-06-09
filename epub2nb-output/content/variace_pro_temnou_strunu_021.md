@@ -3,8 +3,6 @@ title: '16'
 contentType: prose
 ---
 
-  
-
 A minul všesokolský slet, přešly prázdniny a přišel opět nový školní rok, nezměnilo se nic, vůbec nic. Šternberský park voněl sluncem a trávou, na květinovém koberci kvetly červené a žluté růže, u pomníku hraběte Šternberka modrobílé a temně červené macešky. U vrat školy znak lva krále, v patře sochy starců, u schodů Laokoon, naše třída s okny do parku měla obrazy dvou prezidentů a kříž, katedru, stupínek, tabuli, vydrhnuté parkety, v zadním rohu kamna v podobě válce, spojeného se zdí rourou, a dvířka na uhlí z chodby… přibyl nám pouze jeden nový předmět, latina.
 
 A venku na ulicích byly tlampače, které zavedli na konci školního roku před všesokolským sletem, na jasném modrém nebi občas kroužila letadla a v novinách plno zpráv jako vždy, noviny jsou vždy plné zpráv, zprávy o různých řečech, schůzkách a jednáních v pohraničí, zprávy o naší německé straně, _jejíž jméno jsem už kdesi slyšel_, o někom, kdo k nám přijel a teď tu byl, o nějakém anglickém lordu, zprávy o situaci vážné, napjaté, tu a tam něco i o válce… zkrátka všechno jako dřív, nic zvláštního, nového, a doma…

@@ -3,8 +3,6 @@ title: '6'
 contentType: prose
 ---
 
-  
-
 A pět dní před začátkem školy to přišlo zase, a jako obvykle, přišlo to jako blesk. Matka o tom neměla tušení. Šla na návštěvu a nákup různých školních věcí, měla přijít až k večeři, Růženka a já jsme se to dohmátli pozdě odpoledne, brzy potom, co se venku rozprostřelo velké mrtvé šero.
 
 „Hrozné,“ vykřikla Růženka a v jejím hlase bylo zděšení, „já jsem z toho zase pryč. Já jsem zase celá vedle. Proč jen právě dnes šla matka na návštěvu a nákup školních věcí, copak vím, co a jak? Ale vím co,“ skočila náhle k oknu, že jsem se až lekl, venku bylo velké mrtvé šero, „to šero nás spasí. Nepůjde proud, budeme hledat svícen.“ „Který svícen?“ zvolal jsem, „ten ruský?“ „Ten starý ruský, co rozsvěcujeme pod babičkou,“ křikla, „pod tou strašnou babičkou v její výroční den. A petrolejku.“

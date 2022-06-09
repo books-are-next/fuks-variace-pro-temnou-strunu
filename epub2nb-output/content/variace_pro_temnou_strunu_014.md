@@ -3,8 +3,6 @@ title: '9'
 contentType: prose
 ---
 
-  
-
 Způsobil to zeměpisář. Zeměpisář, který nás začal učit i přírodopis a o němž by mi bylo něco takového nenapadlo ani ve snu. Vždyť to byl docela cizí člověk, kterého jsem předtím nikdy v životě neviděl a který předtím nikdy neviděl mě, zeměpisář a přírodopisář, který nás měl přece jenom učit a nic víc, a začátek všeho…
 
 Poznal jsem brzy, že Brachtl a Mínek se velmi dobře snášejí. Vídal jsem je, jak se spolu domlouvají, kdy se odpoledne sejdou, kam půjdou, zda do kina nebo k některému z nich, také sem tam o nějaké knížce, kterou si půjčí, vídal jsem je domlouvat se spolu přede mnou z lavice do lavice hlavně při češtině, ale také o přestávce na chodbě nebo na malém školním dvorku, kam vedla okna tělocvičny a o přestávce tam bylo možno seběhnout, a tu jsem také vídal, jak se v těch chvílích Brachtl mění z divokého stromolezce v beránka, je vlídný a jemný, neřekne jedno horší slovo, jež občas řekne jiným, měl jsem dojem, že bere Mínka v ustavičnou ochranu. Mínek ji asi potřebuje, myslil jsem si, je moc mírný a tichý, nechal by se asi strkat a vláčet, třeba by se dokonce nechal i bít a neřekl by proti tomu slovo, takový jsem já rozhodně nikdy nebyl. Pak jsem se však v duchu tázal sebe sama, proč mi tedy Brachtl nabídl to místo vedle sebe, kde loni seděl Mínek, co se to v něm stalo za tajemný zvrat v té krátké chvíli, kdy mě vyhnal z lavice a pak zase přivolal zpět, aniž mě předtím někdy viděl a znal, a napadlo mě, že v tomhle krásném školním světě je asi tohle všechno možné. Ale v duchu jsem se ptal sám sebe dál a příliš se mezi ně nevměšoval. Stačilo, že jsem s nimi seděl a rozuměl si. Nevměšoval jsem se ani, když spolu chodili ze školy.

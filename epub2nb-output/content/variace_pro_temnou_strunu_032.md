@@ -3,8 +3,6 @@ title: '27'
 contentType: prose
 ---
 
-  
-
 Po neděli se už zase počasí zhoršilo, ve středu začal padat mokrý sníh a na chodnících se tvořilo bláto. Ve středu, kdy začal padat sníh a tvořilo se bláto, to mělo u nás vypuknout. Kvečeru jsme měli začít s nošením do sklepa, aby bylo místo pro malíře, který měl přijít ve čtvrtek, ale dosud po něm nebylo vidu ani slechu. V tu středu dopoledne před tímto podivným cirkusem stál Tieftrunk u tabule a podával češtináři houbu. Češtinář kreslil křídou do pravého rohu tabule hřbitov.
 
 Byl to malý venkovský hřbitov na kopečku za vsí, jaký je u nás na venkově u Valtic a Vranova, byl obehnán nízkou zídkou, jež se dala přeskočit, uprostřed stál kostelík a kolem byly hroby s kříži. Jeden hrob nakreslil otevřený. Docílil to tím, že namaloval malý kvádr. Pak přešel k druhému rohu tabule a tam nakreslil místnost.
@@ -25,8 +23,6 @@ _Pohnul se obraz na stěně —
 i vzkřikla panna zděšeně;  
 lampa, co temně hořela,  
 prskla a zhasla docela…_
-
-  
 
 otočil se češtinář teprve teď do třídy a přednesl. Pak si dal Tief­t­run­kem podat hadr, smazal ty krátké čárky u lampy a řekl:
 
@@ -73,15 +69,11 @@ měsíček svítil zvysoka,
 a ticho, pusto v dědině,  
 vítr burácel jedině,_
 
-  
-
 a pak se mi zdálo, že si dal češtinář podat houbu Tieftrunkem, který se u tabule natřásal a točil do třídy, a že recituje:
 
 _Psi houfem ve vsi zavyli,  
 když ty pocestné zvětřili,  
 a vyli, vyli divnou věc:_
-
-  
 
 a pak že pokynul a my všichni jsme zvolali:
 
@@ -101,6 +93,8 @@ a byli skokem deset mil. —_
 
 _Růženec popad, zahodil,  
 a byli skokem dvacet mil. —_
+
+  
 
 _Křížek utrh a zahodil,  
 a byli skokem třicet mil…_
@@ -123,11 +117,17 @@ běda, kdos nedbal o duši!_
 _Ty mrtvý lež a nevstávej,  
 pánbůh ti pokoj věčný dej!_
 
+  
+
 _Maria panno! při mně stůj,  
 u syna svého oroduj!_
 
+  
+
 _Maria, matko milosti!  
 z té noci zlé mě vyprosti!_
+
+  
 
 Pak se mihla vzduchem houba a rovnou mě praštila do hlavy, to Tieftrunk od tabule na nás hodil houbu ke kamnům a trefil zrovna mě, hned jsem vykřikl, svalil se a dělal mrtvého. Půl třídy se na mě vrhlo, aby mě křísilo, ale Brachtl se prodral nejdál, obličej přitiskl na můj, že jsem se až dusil dobrým sladkým peprmintem, a pak mě chytil za krk a volal, že mě křísí, křísí, křičel jsem a kopal a pak se ozval zvoneček jak skřivánek na jaře nad širými poli.
 

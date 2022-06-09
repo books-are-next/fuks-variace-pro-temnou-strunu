@@ -3,8 +3,6 @@ title: '21'
 contentType: prose
 ---
 
-  
-
 A ač byla vyhlášena mobilizace, k hranicím už týden jezdily kolony aut, tanků, děl, na nebi kroužila letadla víc než předtím, večer se město hroužilo do tmy a říkalo se, že co chvíli může vypuknout válka, my jsme přece jenom ještě fotbal hráli. Týden po vyhlášení mobilizace odpoledne na Křížovém vrchu, jehož příkrá strmá alej se začala pokrývat listím, bylo krásné slunné podzimní počasí. To strašné, co mě při fotbale potkalo, rodilo se toho dne už od časného rána, kdy nad naším domem přelétla mračna letadel a já vstával v horečce.
 
 Když jsem si ve třídě s hlavou mírně rozpálenou sedl do lavice, objevil se Brachtl. Vypadal dnes divočejší než jindy, vlasy měl v očích, rozhalenou košili u krku zmačkanou, jako by v ní spal, krátké manšestrovky zaprášené a punčochy až ke kotníkům, ani si mě nevšiml. Mluvilo se o tom, kdo na ten dnešní fotbal přinese míč. „Já,“ řekl Arnstein, „jestli mě ale doma pustí, když se čeká válka.“ Buka navrhl, aby míč pro jistotu vzal i Kocourek. „Někdo musí vzít i nákolenky,“ řekl Katz, „hříště na Křížovém vrchu, to není žádné malé hříště, jsou tam lajny a branky a tohle bude skutečný zápas. Kdo je vezme?“

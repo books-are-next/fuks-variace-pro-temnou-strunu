@@ -3,8 +3,6 @@ title: '12'
 contentType: prose
 ---
 
-  
-
 Týden před pololetním vysvědčením se otec na konci večeře zeptal, zda se doma vůbec někdy učím. „Ještě jsem tě nikdy, co chodíš do toho gymnázia, neviděl sáhnout na knížku nebo psát nějaký úkol,“ řekl na konci večeře v jídelně, zády k zrcadlu, pod nímž je příborník s karafou vody. „Ještě jsem tě nikdy, co chodíš do toho gymnázia, neslyšel o něm promluvit pár slov.“
 
 „Učím se, jak potřebuji,“ řekl jsem a byl jsem z těch slov celý pryč, copak mohl vidět, jak se učím, nebo slyšet mě, i kdybych se o gymnáziu uvykládal? Vždyť byl skoro pořád pryč, a byl-li právě doma, tedy v pracovně, kam se za ním jen tak pro nic za nic nesmí, do mého pokojíku nikdy nevkročil a nepromluvil se mnou slovo. „Učení mi jde dobře,“ podotkl jsem, „tak se snad, doufám, doma vůbec učit nemusím.“

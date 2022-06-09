@@ -3,8 +3,6 @@ title: '25'
 contentType: prose
 ---
 
-  
-
 V úterý napadl sníh a místo vyučování jsme byli na školním filmu. Dávali „Výrobu zápalek“ a „Sůl nad zlato“, což však nebyla ta známá pohádka, nýbrž film o dobývání soli, a nakonec „Pěstování tabáku“. Bylo to všechno tak nesmírně úchvatné, že Buka po představení řekl, že se mu z toho chce zvracet, a Tieftrunk řekl něco ještě daleko horšího. Jen to „Pěstování tabáku“ vzal trochu na milost, a když jsme vyšli na ulici, zapálil si cigaretu… Ve středu přišel do školy hrnčíř a v kreslírně předváděl, jak se dělá nádobí. Bosou nohou, na níž měl tenkou punčochu bez prstů, šlapal dole kruh, nahoře se mu to točilo a pod rukama mu tam rostl džbánek, Kolomaz na něho vybíral po šestáku. A ve čtvrtek bylo pochodové cvičení.
 
 Šlo celé gymnázium, ale každá třída šla zvlášť a jinam. My jsme šli se svým panem profesorem třídním, dvě hodiny tam a čtyři nazpět, zpola v blátě, zpola ve sněhu, daleko za město. Procházeli jsme několika vesnicemi, v nichž jsem nikdy v životě nebyl, a lidé vybíhali z chalup, zírali na nás, a někteří nám dokonce mávali, jako bychom byli průvod nebo vojáci. V jedné vesnici si Tieftrunk odskočil na malou stranu do hospody, která stála při cestě a byla otevřená, ale věděli jsme, že nejde na malou stranu, nýbrž na pivo, jen Doubek říkal, že může jít na oboje. Tieftrunk nás dohnal až za vsí u jednoho zpola zamrzlého potoka. V lese jsme měli odpočinek, abychom se najedli. Ale nikdo nejedl, neboť každý snědl, co měl z domova, už cestou. Protože bylo vlhko a zima, honili jsme se mezi stromy a lezli do houští, jediný Fürst stál celou tu dobu u stromu, aby si neumazal šaty, a když pan profesor posléze zapískal na píšťalku, scházeli jsme se ze všech stran, mnozí až z velké dálky, až z druhého lesa.

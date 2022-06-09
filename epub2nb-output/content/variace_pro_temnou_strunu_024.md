@@ -3,8 +3,6 @@ title: '19'
 contentType: prose
 ---
 
-  
-
 A pak přišel svátek.
 
 Strážníci na křižovatkách se docela lidsky usmívali, a už to byl vlastně zázrak, kdypak se stává, aby se nějaký strážník na křižovatce lidsky usmíval, chodci na ulicích si vyprávěli vtipy, v parku u pomníku hraběte Šternberka se na lavičkách docela cizí lidé zdravili a smáli, v hospodě v Hradební, kde bydlí stará vdova profesorka, zpívali a hráli tak družně, že to bylo slyšet až k nám. Konečně totiž vyhlásili v pohraničí ten výjimečný stav, o němž se mluvilo v rádiu a v továrně, navíc rozpustili Sudeťáky, ordnery a byl konec.
