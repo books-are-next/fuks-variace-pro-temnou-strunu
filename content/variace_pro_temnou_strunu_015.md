@@ -3,8 +3,6 @@ title: '10'
 contentType: prose
 ---
 
-  
-
 Na hodinu ke staré vdově profesorce do Hradební jsem zřejmě nedošel. Přede mnou se objevily stromy a keře, něco jako zahrada uprostřed zakletého města, poznal jsem, že jsem nešel do Hradební, ale někam úplně jinam, pod podjezd, křižovatkou kolem mydlářství a ocitl se v místě, kde se zahýbá k Svatému Michaeli… pak se přede mnou objevil koberec utkaný z barevných květin, z něhož vanula vůně voskových růží, přeběhl jsem kolem, jako by to tam bylo posypáno žhavým uhlím, nade mnou a vedle mne se objevily nové stromy, keře a jakási postranní cesta do hlubiny… náhle jsem se ocitl před hrabětem Šternberkem. S hlavou mírně skloněnou, jako by o něčem rozjímal, stál přede mnou, hleděl na květinu, kterou držel v podepřené ruce, truchlivě a smutně, stál na velkém tmavém mramorovém kvádru a kolem kvetly pozdní modrobílé a temně červené macešky. Sedl jsem si před ním na jednu z laviček a černé desky s notami, které jsem svíral pod paží jako nalomené křídlo, jsem opřel o sebe. Pak jsem zaslechl hudbu. Nesla se prostranstvím nad pomníkem, _jako by ji kdesi v dálce_ hráli černozlatí hornisti a pozounéři, zalétala sem od čínského kiosku, od rybníka korunami stromů, protkanými mírným sluncem a prvním podzimním listím. Chvíli jsem hleděl do stromů a tupě poslouchal, pak jsem měl dojem, že si někdo ke mně přisedl na druhý konec lavičky. Jako by i on chvíli poslouchal a hleděl do stromů, pak se zahleděl na hraběte Šternberka na tmavém mramorovém kvádru. Pak se zrakem svezl před lavičku na zem, pak ze země sklouzl na mne… a pak promluvil. Co mám v těch černých deskách. Nejdu-li na klavír.
 
 Spatřil jsem vedle sebe docela cizího člověka, kterého jsem nikdy v životě neviděl.

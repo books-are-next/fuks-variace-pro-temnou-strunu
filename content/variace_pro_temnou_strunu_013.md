@@ -3,8 +3,6 @@ title: '8'
 contentType: prose
 ---
 
-  
-
 A přešel týden, deset dní… a už jsem je znal všechny. V tom hradě plném zábavy, radosti a štěstí seděl u dveří Kolomaz…
 
 Když někdo zaklepe, Kolomaz vstane a jde otevřít. Roznáší i oběžníky a ke školníkům chodí pro křídu. Donese ji až o přestávce, ale je aspoň na další hodinu. Nejpodivnější na něm však je chůze. Když jde, předklání se, klátí rukama u kolen a prolamuje nohy, takže jde, jako by se podpíral o zem. Ale snad tak chodí proto, že je tak velký, největší ze všech. Když si stoupne na židli, kterou mu dá Buka na katedru, dosáhne i na lampu na stropě, což nedokáže ani pan profesor na češtinu, ač se jednou s Kolomazem vsadil… Když je Kolomaz vyvolán k tabuli, jde tak, že se skoro na každém kroku zastaví. Někdy, než vstane a jde k tabuli, hrabe se ještě v tašce, jako by hledal sešit. Pan profesor třídní, ten menší tlustší pán s prošedlou hlavou, který nás učí matematiku, je nedočkavý a řekne Kolomazovi, ať přijde bez sešitu. Při češtině se Kolomaz nikdy v tašce nehrabe. Při češtině nikdo sešit mít nemusí…

@@ -3,8 +3,6 @@ title: '26'
 contentType: prose
 ---
 
-  
-
 Náhlá změna trvala už tři dni, docela tak, jako by někdo mával kouzelným proutkem. Sníh roztál, vysvitlo slunce a okamžitě všechno vysušilo, ulice a chodníky byly jako vymetené a lavičky v parku, pokud tam přes zimu zůstaly, byly tak suché a čisté, že se na nich dalo sedět.
 
 „Což to,“ vzdychla Růženka v kuchyni u chladné plotny, na níž stál cukr a v misce deset rozklepnutých žloutků na krém, „horší je, že _přijde_ k večeři, matka také. Teď právě šla k ženě generála, už zase umírá.“

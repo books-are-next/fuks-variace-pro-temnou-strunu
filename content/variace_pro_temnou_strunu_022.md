@@ -3,8 +3,6 @@ title: '17'
 contentType: prose
 ---
 
-  
-
 A pak jsem řadu nocí ani nespal.
 
 Venku na ulicích byly tlampače, na temném nočním nebi občas zabzučelo letadlo, v novinách stále tytéž zprávy, ten anglický lord, německá strana, vážná, napjatá situace… kvůli tomu bych byl přece snad spal, jako spali jiní, Brachtl, Mínek, Buka, Katz či Arnstein… Anebo jsem nespal proto, že ve škole už zas začal učit zeměpisář a češtinář vykládat Holoubka? Chystal se, že přinese helikón a hlínu z nějakého smutného hrobu, suďbůh proč hlínu ze smutného hrobu, spíše jsme čekali, že přinese živé veselé holoubě, kvůli tomu bych byl přece snad spal také… Anebo jsem nespal proto, že se mi zjevovaly rubínové korále, černé dlouhé řasy – a hlas, jaký jsem v tomhle našem bytě nikdy neslyšel, leda z gramofonu, myslil na to, jak se na mě dívala a smála a teď byla v Rakousku a snad ji vídal Gini… bože, proč jsem nespal, jak to bylo možné? A pak jednou přišla noc, kdy jsem snad vůbec nezamhouřil oka. Převracel jsem se v pokojíku na gauči u zhasnutého rádia jako omráčený kapr, na nočním nebi nezabzučelo jediné letadlo a v bytě se rozprostíral _podivný, nápadně mrtvý klid_.

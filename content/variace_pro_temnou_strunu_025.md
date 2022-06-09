@@ -3,8 +3,6 @@ title: '20'
 contentType: prose
 ---
 
-  
-
 Rozpustili Sudeťáky, ordnery, vyhlásili výjimečný stav, ale nějak to nepomohlo. Ta veselost, když vyhlásili výjimečný stav a rozpustili Sudeťáky, ordnery, vzala nějak náhle zasvé. Strážníci na křižovatkách se opět přestali usmívat, lidé si vyprávět vtipy a zdravit se, v hospodě v Hradební byl už zas klid. Nad městem létala letadla častěji než předtím, a vskutku – mluvilo se o válce. Včera jsem řekl Brachtlovi o cigaretách, ale _nejen jemu_, řekl jsem o nich i Bukovi, Katzovi a Hlásnému a také jsem řekl, že bych měl z té války, kdyby vskutku byla, dost strach, snad jsem to ani tak nemyslil. „Vykouříme je,“ všichni ihned souhlasili, a Katz se na mě usmál a řekl, abych se nebál. „Válka tak rychle být nemůže, Míšo,“ řekl a usmál se na Brachtla, „neboj se. Vždyť by napřed musila být mobilizace. Pojď, půjdeme ze školy _spolu_…“ A dnes ráno, když jsem šel do školy, jsme měli v oknech zatemnění. Zatemnění, o němž se mluvilo už v továrně. Ráno totiž, když jsem šel do školy, rádio oznámilo, že _počínaje dneškem_ se nesmí večer po setmění na ulicích svítit a v oknech musí být tmavý papír, aby do ulic nepronikl jediný paprsek. Cestou do školy jsem také viděl na některých domech sirény. Vynořily se jako houby po dešti, ale spíše tam byly už dřív a já si jich nevšiml, i o těch se mluvilo v továrně… no a odpoledne přinesl Hron tři plechové válce s popruhy, masky proti plynu.
 
 „U každý je tištěnej návod,“ řekl mi, když mi je předával, neboť doma nikdo jiný nebyl, „to dole sluje filtr a dá se to vodšroubovat. Jedna je pro tebe a dvě pro dámy. Spánembohem…“
@@ -132,6 +130,8 @@ Tieftrunk uhasil cigaretu a sedl si. Brachtl, jenž seděl ode mne co nejdále 
 „Cigaretu si mohu zapálit, kdy budu chtít,“ řekl Mínkovi, „nepotřebuji ji kouřit _s deseti jinými_. S kým budu kouřit, toho si vyberu. S někým bych nekouřil ani zanic…“
 
 Okem o mne nezavadil a já se přemohl a dělal jsem, že jsem nic neslyšel. Měl jsem však dojem, že jsem trochu zbledl. Obrátil jsem se na pana profesora, který pomalu začal číst:
+
+  
 
 _Na pahorku mezi buky  
 kostelíček s věží nízkou,  

@@ -3,8 +3,6 @@ title: '5'
 contentType: prose
 ---
 
-  
-
 Když jsme se vrátili do města, spěchal jsem k ní. Křeslo, do něhož jsem klesl, stálo v šeru, neboť bylo poblíž zadní stěny a venku se už stmívalo. Na kulatém stolku na skle byl jako před léty citrón a jedna sklenka. Když jsem ji vzal do třesoucí se ruky a podržel proti oknu, viděl jsem na jejím dně vlhký pohyblivý nedopitý zbytek. Dal jsem ji zpět na stůl a trochu se pootočil, abych neseděl zády. Nemohl jsem se radovat, protože jsem byl zoufalý a zmatený, ale nemohl jsem si ani příliš zoufat, protože kdesi v duši jsem se musil radovat. Nebylo to černé ani bílé, a kdybych byl měl rozum, byl bych snad věděl, že z toho nemůže vzejít nic než taková _bezvýrazná šeď_. Chtěl jsem _jí_ všechno, co jsem měl na srdci, vyložit, vyříkat a tajně jsem věřil a doufal, že mi něco řekne. Zdvihl jsem k ní oči jako k nebi, ale zčistajasna mě předešla.
 
 „Něco se tuhle v tomto pokoji dělo,“ řekla vídeňským dialektem, „ani nevím co. Ale zato jsem se dozvěděla, že půjde do veřejné školy.“

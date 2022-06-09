@@ -3,8 +3,6 @@ title: '28'
 contentType: prose
 ---
 
-  
-
 A pak přišel konec.
 
 Lístečky se zelenají, ptáci zpívají, stromy šumí… ležím na kraji lesa v trávě a hledím před sebe. Z velké dálky cestou od vsi, za níž na kopečku je hřbitov, se ke mně pomalu, pomaloučku blíží nějaký člověk.
@@ -33,9 +31,7 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Lebku,“ kývl, „tak vidíte. To člověka vystraší, to se mně nedivte. Mít tadyhle lebku, to není žádná legrace. Co jsem měl ubohej dělat…“
 
-\* \* \*
-
-  
+* * *
 
 „A co jste viděl dál,“ _usmál se pán za bílým stolkem_ velice vlídně, jako by rozmlouval s někým, koho má nesmírně rád, „co jste viděl dál, vzpomeňte si hezky, jistě si vzpomenete… co jste viděl dál…“
 
@@ -49,9 +45,7 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Pak šli do pokoje k babičce, ale jen ten s lebkou, důstojník tam nešel, ten tam přišel až pak.“
 
-\* \* \*
-
-  
+* * *
 
 „Ten s lebkou skočil k pohovce a křikl, co je to za zvíře. Já jsem myslil, že myslí mě, protože jsem tam právě stál, a důstojník tam právě nebyl, aby mu mohl vysvětlit, kdo jsem.“
 
@@ -87,15 +81,11 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Bylo to strašné zabručení… Medvěd vždycky zabručel, když s ním někdo zatřepal, měl v sobě nějaký bručící přístroj.“
 
-\* \* \*
-
-  
+* * *
 
 „No a pak medvěd letěl s rozpáraným břichem pod okno a zůstal tam ležet u gramofonu. Ten hrál. Ale dá se to prý spravit.“
 
-\* \* \*
-
-  
+* * *
 
 „A jak to bylo s babičkou,“ otázal se pán za stolem velmi laskavě. „_Kde_ byla babička, když medvěd letěl k oknu? Stála u pohovky nebo byla na zdi, nebo seděla v křesle…“
 
@@ -121,9 +111,7 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Měl jsem dojem.“
 
-\* \* \*
-
-  
+* * *
 
 „… když ten s tou lebkou strhl obraz ze zdi, objevil se řetízek. Obraz visel na skobě na takovém řetěze, ale nikdy ho nebylo, když byl obraz na zdi, vidět.“
 
@@ -155,9 +143,7 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Užil jste slova _čistka_. To je u nás slovo dost neznámé. To se u nás málokdy užívalo. Nevzpomínáte si, kdy jste je slyšel poprvé nebo za jakých okolností…“
 
-\* \* \*
-
-  
+* * *
 
 „No to je jedno,“ mávl pán za stolkem vlídně, „nevzpomínáte si. Kdy ta čistka u vás v bytě byla. Kdy to bylo, víte to?“
 
@@ -183,9 +169,7 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Slyšel jsem zpod okna, kam obraz dopadl,“ kývl jsem, „pět Tedeum, hosana a aleluja. Stál tam totiž ten gramofon a pořád slabě hrál, někdo obracel desky, nevím, jestli já či Hron, Hron asi sotva, asi já, nechali mě, hrál Bachovu Mši h moll, kterou jsme jednou dostali od tety, byl to sbor a orchestr basilejského rozhlasu, řídil Artur Jacobson, zpívala tam soprán… Když tam obraz dopadl, pěla právě aleluja.“
 
-\* \* \*
-
-  
+* * *
 
 „A co bylo dál…“
 
@@ -205,15 +189,11 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Řekl jste, že měla hlavu mírně sehnutou _nebo_ zdviženou… Měla ji sehnutou nebo pozdviženou?“
 
-\* \* \*
-
-  
+* * *
 
 „Nebo ji měla jednu chvíli sehnutou _a jinou chvíli_ zdviženou? Udělala tou hlavou nějaký pohyb?“
 
-\* \* \*
-
-  
+* * *
 
 „Podívejte,“ řekl pán za stolkem vlídně, „přece si na tu sošku vzpomínáte. Vždyť stojí ve vaší vitrínce celá léta. Má sklopenou nebo zdviženou hlavu?“
 
@@ -223,9 +203,7 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Tanečnice. Neměl jste snad někdy takový dojem, že to tanečnice _není_? No víte, třeba někdy mezi řečí, nebo když jste ji pozoroval, díval se na ni či podobně…“
 
-\* \* \*
-
-  
+* * *
 
 „Neměl jste _někdy_ dojem, že má _bledě modrý plášť_… _sepjaté ruce_…“
 
@@ -261,9 +239,7 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Viděl jste někdy někoho – _kdo mu byl podoben_?“
 
-\* \* \*
-
-  
+* * *
 
 „No třeba někde na ulici, v kinu, na venkově a tak. Jestli jste viděl někoho, kdo… se mu podobal.“
 
@@ -273,9 +249,7 @@ Pak jsem viděl sebe a nás, jak stojíme v jídelně, jen matka v černém a
 
 „Je to možné, chodily k nám různé návštěvy.“
 
-\* \* \*
-
-  
+* * *
 
 „Kterou z těch návštěv vám ten s tou lebkou připomínal. Mohl byste říci, kdo byla ta návštěva, která mu byla podobná, a přibližně kdy u vás byla?“
 
@@ -285,9 +259,7 @@ _Teprve v této chvíli_, kdy se zeptal, jsem si to uvědomil. Že u nás byly
 
 „A co z toho soudíte?“
 
-\* \* \*
-
-  
+* * *
 
 „Podívejte,“ řekl pán za stolkem vlídně, „máte za to, že ten s tou lebkou a některé ty návštěvy, které u vás v minulých létech byly a podobaly se mu, že tyto návštěvy a ten s tou lebkou byla _jedna a táž osoba_?“
 
@@ -299,15 +271,11 @@ _Teprve v této chvíli_, kdy se zeptal, jsem si to uvědomil. Že u nás byly
 
 „Proto tedy to nebylo možné… Protože váš dům byl hlídán. Ale kdyby nebyl býval váš dům hlídán…“
 
-\* \* \*
-
-  
+* * *
 
 „Řekl jste, že váš dům byl hlídán jen tenkrát, když byl otec pryč, a nastálo jen v poslední době. Je možné, že by se byl k vám ten s tou lebkou mohl dostat právě v době, kdy váš otec byl pryč?“
 
-\* \* \*
-
-  
+* * *
 
 „Že by se byl k vám mohl dostat třeba v přestrojení?“
 
@@ -323,21 +291,15 @@ _Teprve v této chvíli_, kdy se zeptal, jsem si to uvědomil. Že u nás byly
 
 „Zmínil jste se, že ten s lebkou se v něčem podobal panu Hronovi.“
 
-\* \* \*
-
-  
+* * *
 
 „Dobrá. Čelem a šíjí, říkáte, také rukama. A obličejem? Těma očima, rty a zuby, myslím…“
 
-\* \* \*
-
-  
+* * *
 
 „Jste si tedy jist, že pan Hron a ten s tou lebkou také nebyla jedna a táž osoba… Že ten s tou lebkou nebyl Hron…?“
 
-\* \* \*
-
-  
+* * *
 
 „Dobrá. Poslyšte…,“ řekl náhle pán za bílým stolkem a pohlédl na mne…, „poslyšte, jak _vypadal váš otec_…?“
 
@@ -387,15 +349,11 @@ Po chvilce rozmýšlení jsem řekl:
 
 „Jako vlk,“ usmál se pán za stolem, „dobrá. A máte nějaký dojem, že víte, _proč_ nebo _od čeho_ měl tak červené rty? A proč měl ty špičáky tak zvětšené, _k čemu_…?“
 
-\* \* \*
-
-  
+* * *
 
 „Nevíte, od čeho mohou být zrudlé rty…“
 
-\* \* \*
-
-  
+* * *
 
 „Nevíte… No tak, když vyloučíme, že by byly zrudlé od růže, kterou užívají ženy, nevíte, od čeho jiného může mít někdo zrudlé rty…“
 
@@ -405,9 +363,7 @@ Po chvilce rozmýšlení jsem řekl:
 
 „Třeba červené víno,“ řekl jsem.
 
-\* \* \*
-
-  
+* * *
 
 „Máte dojem, že jste někdy slyšel výraz _bez duše_… Že někdo nemá duši…“
 
@@ -427,9 +383,7 @@ Po chvilce rozmýšlení jsem řekl:
 
 „Seelenlos, německy…?!“
 
-\* \* \*
-
-  
+* * *
 
 „Dobrá. Připadal vám ten s tou lebkou, jako by byl bez duše? Jako by neměl duši?“
 
@@ -437,9 +391,7 @@ Po chvilce rozmýšlení jsem řekl:
 
 „V tom se podobal otci?… No, řekl jste, že se _v něčem_ otci přece jen podobal… V tom by se byl také mohl podobat _Hronovi_, ne?“
 
-\* \* \*
-
-  
+* * *
 
 „Poslyšte,“ řekl po chvíli znovu, „máte dojem, že jste někdy _slyšel_ o někom, kdo není ani živý, ani mrtvý, víte, takový…“
 
@@ -447,15 +399,11 @@ Po chvilce rozmýšlení jsem řekl:
 
 „Dobrá,“ kývl. „Přirovnal jste toho člověka k vlku. Ztemnělé oči, rudé rty a zvětšené špičáky, a řekl jste, že byl jako bez duše. Myslíte si také, že vypadal jako někdo, kdo není ani živý, ani mrtvý?“
 
-\* \* \*
-
-  
+* * *
 
 „Dobrá. A nevíte, proč má zvětšené špičáky a od čeho zrudlé rty. Říkáte od červeného vína. Proč však právě od _červeného_? Proč ne třeba od bílého?“
 
-\* \* \*
-
-  
+* * *
 
 „Říkal jste, že jste někdy cítíval nějakou tíseň, svírání, tlak. V sobě, nebo _na sobě_?“
 
@@ -463,15 +411,11 @@ Po chvilce rozmýšlení jsem řekl:
 
 „Na sobě nikdy? Na nohách, na břiše. Na prsou…,“ řekl, „nikdy jste necítil nějaký tlak? Nebo na krku?“
 
-\* \* \*
-
-  
+* * *
 
 „Máte dojem, že jste měl někdy poraněný krk?“
 
-\* \* \*
-
-  
+* * *
 
 „Že vás trochu bolel nebo pálil…“
 
@@ -503,9 +447,7 @@ Ale chvilku předtím, než tou strašnou hrůzou a děsem něco ve mně povoli
 
 „Tak vidíte!… Ale to nic, to je dobré. Ten svět kolem, ten okolní svět je daleko horší, pohleďte,“ a ukázal _k oknu_.
 
-\* \* \*
-
-  
+* * *
 
 Ležel jsem na kraji lesa v trávě, v dálce byla vesnice a za ní na kopci hřbitov a cestou od vsi se ke mně pomalu, pomaloučku blížil nějaký člověk. Na tu dálku se mi zdálo, že je otrhaný, ošumělý, má staré zaprášené boty a bledou pohublou tvář. Trochu jsem se nadzdvihl, tráva byla studená a vlhká, byl jsem zimou celý zkřehlý, ale bylo mi to jedno. To všechno, co jsem prožil, viděl, slyšel… mělo to vůbec nějaký smysl? Nějakou cenu? Bylo to vůbec k něčemu? Bylo v tom několik malých šťastných a světlých chvilek, které byly k něčemu, měly cenu, smysl, Vilém Brachtl, Ilona Lányiová, Mojžíš Katz, Artur Jacobson, bylo…, ale bylo to jen několik malých chvilek, kapek v obrovském, nekonečném, zkamenělém chladném moři, nic víc. Měl jsem být mrtev, a přece naživu a na světě, měl jsem být živ, a přece pro svět a život mrtev. Kdybych neměl být živ, myslil jsem si, kdo by mohl ke mně ještě přijít a mluvit se mnou? Kdybych neměl být mrtev, kdo by mohl přijít k mému hrobu a zapálit tam svíčky? Ten člověk od vsi se ke mně blížil a já viděl, že nemá potrhaný kabát, zaprášené boty ani bledou pohublou tvář, nýbrž že vedle něho kráčí obrovský čtyřnohý pes a je to místní varhaník. Když došel blíž, začala se nad krajinou snášet černobílá mlha a já viděl, že to není varhaník, nýbrž pastýř se psem a s prutem v ruce, za ním jde velké stádo ovcí. Když však došel až na kraj lesa a zastavil se přede mnou, viděl jsem, že to není ani pastýř se psem, ale mladý Škába, který teď bydlil s rodiči v chalupě u lesa, má v ruce prut a za ním se táhne hejno bílých labutí. Vtom zavál vítr, labutě rozepjaly křídla, daly se do běhu k nám a ve stromech a větvích temně zašumělo. Ale byl to klam a zdání. To nebylo temné zašumění, to zpívaly stromy a větve, jak zpívají odjakživa, když věje vítr, a budou zpívat věčně.
 

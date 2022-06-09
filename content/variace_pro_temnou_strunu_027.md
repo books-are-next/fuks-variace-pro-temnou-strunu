@@ -3,8 +3,6 @@ title: '22'
 contentType: prose
 ---
 
-  
-
 Paní Hronová seděla v kuchyni u okna, za nímž byla tma, jaká bývá večer v říjnu, Hron stál v rohu, držel domácí telefon a někoho poslouchal, bylo jasné koho, nad stolem svítila lampa. Když jsme vešli, paní Hronová vstala, běžela ke kamnům, chytila tam u truhlíku dřevěný špalek a vynesla jej do pokoje. Když se vrátila zpět, nabídla nám židle a řekla: „Zvláštní případ.“ A Růženka hned vyhrkla, oč jde. Zda snad o ten odjezd pana prezidenta do Londýna, nebo o válku, o níž se ani teď, po těch Sudetách, nepřestalo mluvit, ale paní Hronová se usmála a zavrtěla hlavou. „Počkejte, dám napřed trochu šípkového vína, žijem jako v bouřce,“ řekla. A Hron v rohu do telefonu kývl, telefon pověsil a šel si sednout ke stolu naproti nám. „Dá napřed trochu šípkového vína, žijem jak v bouřce,“ vycenil na nás chrup a pak složil na stůl obrovské svalnaté ruce, plné černých chlupů na zápěstí, a zahleděl se na popelník. Chvíli jsem pozoroval, jak tak mlčky sedí a hledí na popelník, a myslil jsem si, snad nám dnes nebude zas něco vyprávět? Pak paní Hronová přinesla šípkové víno a nalila je do tří sklenic. U čtvrté zřejmě trochu zaváhala, a já se musil jenom usmát. Správce na mě koukl, mávl rukou a paní správcová pak nalila i mně.
 
 „Tak na zdraví,“ chňapla Růženka sklenku a celou ji do sebe obrátila, my ostatní jsme upili jen zpola. Správce hodil hlavou a paní Hronová nalila Růžence druhou sklenici.

@@ -3,8 +3,6 @@ title: '3'
 contentType: prose
 ---
 
-  
-
 Právě jsem stál na dvoře, poblíž brány před pultem, který stloukl místní truhlář, a kreslil jsem zahradu, do které spěchá pár lidí. Spěchali proto, že zahrada byla překrásná. Ale to vlastně byla jen tak napovrch. Ve skutečnosti byla ošklivá, šedá, bledá, neboť mi barvy na slunci rychle usychaly a chudáky, kteří do ní spěchali, jsem kreslil od hlav a byl teprve v půli těla, takže zatím spěch měli jen v hlavách, a nikoli v nohách. Náhle pan učitel, který stál za mnou a radil mi rozměry, se obrátil a pohlédl k bráně. V bráně stála tmavá postava v plášti, připomínající černého anděla, ale neměla křídla ani kopí, nýbrž koženou brašnu a čepici s pošťáckým štítkem. Stál tam, jako by nesl bůhví co, ale zatím nesl jen bílý papírek.
 
 Matka přišla a zbledla, ještě než telegram otevřela. Ovšem, telegramy jsou vždycky zlé. Na dobré věci se nespěchá, a jen když se stane něco zlého, přijde to rychle. Dobré nikoliv. To třeba až za měsíc, za rok, anebo nikdy…

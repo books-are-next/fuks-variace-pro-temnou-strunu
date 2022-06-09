@@ -3,8 +3,6 @@ title: '1'
 contentType: prose
 ---
 
-  
-
 Bylo teprve pět hodin, ale ve vzduchu se šeřilo, že pomalu nebylo vidět na krok. Odložil jsem knížku s obrázky a bratranec Gini mapu Evropy.
 
 „Ta tvá knížka s obrázky má šagrénovou vazbu,“ řekl, „ani nevíš, co to šagrén je. Ale prohlížet si to můžeš. To se zrovna tak pro tebe hodí.“ A šel k oknu, pohlédl na ulici a řekl, že se zas žene nějaká pitomá bouřka.

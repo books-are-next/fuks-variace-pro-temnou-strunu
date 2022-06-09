@@ -3,8 +3,6 @@ title: '18'
 contentType: prose
 ---
 
-  
-
 Druhý den odpoledne bylo krásně. Seděl za volantem v zelené uniformě s temně červenými výložkami, na nichž se třpytilo zlato, v uniformě, kterou málokdy nosí, dnes ji však vzal, snad proto, že měl kvečeru jet na nějakou hostinu. Ač jsem mu neviděl do tváře, měl jsem dojem, že bděle sleduje ulice, jimiž projíždí, připadal mi tak trochu jako fízl. Já seděl vzadu vedle Růženky, která měla nový oranžový klobouk jménem „Radostný podzim“, a ulice, jimiž jsme projížděli a které on za volantem tak bděle sledoval, jsem téměř nevnímal. Když jsme přejížděli křižovatku s mydlářstvím, strážník, který tam řídil dopravu, si ho za volantem všiml, skočil do pozoru jako žába a salutoval, a tu se mi vzadu na sedadle skoro přitížilo. Když jsem se bezděčně ohlédl, spatřil jsem zadním okénkem, že za námi jede jakási tmavohnědá škodovka. Když jsme zahnuli k Svatému Michaelu a na konci ulice se objevila vysoká kostelní věž, vysoukal jsem větu.
 
 „Prosím tě,“ řekl, aniž přestal sledovat ulici s věží na konci, „jak to mluvíš… kam na tyhle obraty chodíš? Nebo to máš z vlastní hlavy?“ řekl a stiskl páčku, předjel jakousi modrou tatrovku, která pomalu jela před námi. Růženka v oranžovém klobouku na mě koukla, byla celá pryč. Snad proto, že jela někam, kde ještě nikdy v životě nebyla. Po chvíli ticha jsem promluvil zas.
