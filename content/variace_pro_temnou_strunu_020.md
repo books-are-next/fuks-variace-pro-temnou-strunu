@@ -61,8 +61,12 @@ A tu jsme propukli v nový obrovský křik a začali bouřlivě tleskat. A z
 
 Chvojka otevřel okna, pan profesor nám pokynul a začali jsme sborově zpívat Narodil se Kristus Pán a Nesem vám noviny. Císař dokonce zpíval druhý hlas. Když jsme dozpívali, řekl Chvojka, který stál u okna a díval se na ulici, že na chodníku stojí zástupy a dívají se do našich oken. Pan profesor kývl a řekl, že jim tedy ještě jednu přidáme. A poručil zazpívat „Pod našimi okny teče vodička“. Když jsme dozpívali, řekl pan profesor „dost“, nařídil, abychom si otevřeli čítanky na dvacáté stránce, a Chvojku vyzval, aby začal číst.
 
+  
+
 _Byl Štědrý večer, byl lásky hlas,  
 hrdliččin zval ku lásce čas…_
+
+  
 
 četl Chvojka a pan profesor křikl „dost“, pochválil jej a posadil. Pak řekl, že nám vyloží štědrovečerní zvyky našich předků, jako krájení jablek, lití olova a _házení střevíců_, a zeptal se, kdo má jablko. Ale protože čeština byla poslední hodinu, nikdo už jablko neměl, všechna se snědla, pokud vůbec v tomto čase byla. „To nic,“ řekl pan profesor, „krájení jablek si tedy necháme napříště.“ A vyzval Kolomaze, aby příště přinesl jablko, Kolomazovi mají totiž koloniální obchod.
 
@@ -72,10 +76,14 @@ hrdliččin zval ku lásce čas…_
 
 Když jsme se obuli, vyzval nás, abychom sborově přečetli evokaci Štědrého večera na straně dvacet dva.
 
+  
+
 _Hoj ty Štědrý večere,  
 ty tajemný svátku,  
 cože komu dobrého  
 neseš na památku?_
+
+  
 
 _Hospodáři štědrovku,  
 kravám po výslužce,  
