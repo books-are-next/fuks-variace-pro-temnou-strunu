@@ -3,6 +3,8 @@ title: '27'
 contentType: prose
 ---
 
+<section>
+
 Po neděli se už zase počasí zhoršilo, ve středu začal padat mokrý sníh a na chodnících se tvořilo bláto. Ve středu, kdy začal padat sníh a tvořilo se bláto, to mělo u nás vypuknout. Kvečeru jsme měli začít s nošením do sklepa, aby bylo místo pro malíře, který měl přijít ve čtvrtek, ale dosud po něm nebylo vidu ani slechu. V tu středu dopoledne před tímto podivným cirkusem stál Tieftrunk u tabule a podával češtináři houbu. Češtinář kreslil křídou do pravého rohu tabule hřbitov.
 
 Byl to malý venkovský hřbitov na kopečku za vsí, jaký je u nás na venkově u Valtic a Vranova, byl obehnán nízkou zídkou, jež se dala přeskočit, uprostřed stál kostelík a kolem byly hroby s kříži. Jeden hrob nakreslil otevřený. Docílil to tím, že namaloval malý kvádr. Pak přešel k druhému rohu tabule a tam nakreslil místnost.
@@ -19,25 +21,33 @@ Vyndal opici a zeptal se, jaký cirkus bude.
 
 Strčil jsem do něho, až vypadl z lavice a schválně spadl na zem. Protože češtinář byl právě otočen k tabuli a neviděl ho, začal nahlas volat o pomoc. Chytil jsem ho pod krkem a po krátkém tahání ho postavil na nohy.
 
-  
+</section>
+
+<section>
 
 _Pohnul se obraz na stěně —  
 i vzkřikla panna zděšeně;  
 lampa, co temně hořela,  
 prskla a zhasla docela…_
 
-  
+</section>
+
+<section>
 
 otočil se češtinář teprve teď do třídy a přednesl. Pak si dal Tief­t­run­kem podat hadr, smazal ty krátké čárky u lampy a řekl:
 
 „A je tma. V té chvíli, co se uvnitř zjevilo tohle strašlivé znamení, za oknem…
 
-  
+</section>
+
+<section>
 
 _… kroků zvuk,  
 a na okénko ťuk, ťuk, ťuk…“_
 
-  
+</section>
+
+<section>
 
 A pak se zeptal Chvojky, co bylo dál.
 
@@ -55,12 +65,16 @@ A pak se zeptal Chvojky, co bylo dál.
 
 „Tak přijdeš,“ tiskl mě k oknu s pěstí u nosu a já volal, že ano. Sáhl do kapsy a vyňal žvýkačky. „Tu máš,“ dal jednu Bukovi, druhou Mínkovi a třetí Kchonymu, který k nám právě v té chvíli dohopsal. „A co já,“ zvolal jsem, chytil ho za vlasy a podrazil mu nohu, „já nic?“ „Ty nic,“ zakřičel, vysmekl se a pak se za mnou hnal dozadu. Chytil mě u zdi, neboť jsem už neměl čas prchnout přes poslední lavici stranou, a tam mě s pomocí Buky a Hlásného strhl k zemi. Pak jsem už jen matně slyšel, že češtinář volá Doubka, aby řekl, co jí příchozí na její námitky odvětil, a Doubek odpovídá:
 
-  
+</section>
+
+<section>
 
 _Hoj, den je noc a noc je den —  
 ve dne mé oči tlačí sen…_
 
-  
+</section>
+
+<section>
 
 Brachtl mi pod lavicí tlačil dlaní oči, ale i ústa, trhal jsem sebou a kopal do trnože a ve chvilkách, kdy jsem mohl trochu otevřít ústa, jsem volal, že chci žvýkačku, a pak v poloviční tmě a skoro nedýchaje jsem slyšel, jak češtinář v dálce křičí:
 
@@ -76,62 +90,86 @@ Pak jsem začal volat zpod lavice o pomoc, ale nikdo mě neslyšel. Jen asi des
 
 „Nic si z toho nedělej, Michálku,“ chytil mě za krkem, „podívej, opička se na nás kouká a taky nepláče. Podívej…,“ zakroutil mi hlavou, vyprskl jsem a bouchnul ho, vylítl ke kamnům a já za ním. Cestou jsem zakopl o Chvojkovu nohu, který mi ji nastavil v uličce, upadl jsem, div jsem si nerozbil hlavu, a pak se u kamen strhla rvačka. A zatímco jsme se rvali a bylo nás asi deset a nikdo nevěděl, kdo se rve s kým, jen občas jsem poznal, že je nablízku i Brachtl, když jsem ucítil na tváři vůni peprmintu, musil češtinář u tabule pokračovat, vykládat, volat a křičet, jak příchozí prchal s pannou, někdo mu odpovídal:
 
-  
+</section>
+
+<section>
 
 _Byla noc, byla hluboká,  
 měsíček svítil zvysoka,  
 a ticho, pusto v dědině,  
 vítr burácel jedině,_
 
-  
+</section>
+
+<section>
 
 a pak se mi zdálo, že si dal češtinář podat houbu Tieftrunkem, který se u tabule natřásal a točil do třídy, a že recituje:
 
-  
+</section>
+
+<section>
 
 _Psi houfem ve vsi zavyli,  
 když ty pocestné zvětřili,  
 a vyli, vyli divnou věc:_
 
-  
+</section>
+
+<section>
 
 a pak že pokynul a my všichni jsme zvolali:
 
-  
+</section>
+
+<section>
 
 _že tě nablízku umrlec!_
 
-  
+</section>
+
+<section>
 
 A pak mnozí z různých koutů třídy vyli, třásli rukama a nohama a sborově přednášeli, co měli v knížce zaškrtnuto modře:
 
-  
+</section>
+
+<section>
 
 _Pěkná noc, jasná — v tu dobu  
 vstávají mrtví ze hrobů,  
 a nežli zvíš, jsou tobě blíž —  
 má milá, nic se nebojíš?_
 
-  
+</section>
+
+<section>
 
 Křičel na Chvojku, co musila odhodit, když s ní umrlec prchal, a Chvojka ječel, že musila odhodit modlitební knížky, růženec a křížek, část třídy sborově četla, co měla v knížce zaškrtnuto červeně:
 
-  
+</section>
+
+<section>
 
 _Knížky jí vzal a zahodil,  
 a byli skokem deset mil. —_
 
-  
+</section>
+
+<section>
 
 _Růženec popad, zahodil,  
 a byli skokem dvacet mil. —_
 
-  
+</section>
+
+<section>
 
 _Křížek utrh a zahodil,  
 a byli skokem třicet mil…_
 
-  
+</section>
+
+<section>
 
 a všichni skákali dlouhými skoky po třídě, lavicích a stupínku jako klokani a kočky.
 
@@ -143,27 +181,37 @@ Na chvíli se mi podařilo otočit se od kamen k tabuli a viděl jsem, že pr�
 
 „Volá tě,“ křikl Buka, „máš něco říci německy…“ ale já nevěděl, oč jde, a jen jsem viděl, jak češtinář mávl rukou, seděl jsem právě na kamnech místo Kopejtka, který se tam mou zásluhou nedostal, ale Brachtl mě tahal za nohy, abych spadl, a já se tam zuby nehty držel roury, až se kamna třásla, div se nerozpadla, ale pak jsem přece jenom slezl, neboť mi začalo být horko, vždyť byl březen a v kamnech se topilo. „A teď si ještě musíme povědět, co ji zachránilo…“ slyšel jsem na půl ucha češtináře, když jsem slezl a strkal teď horempádem nahoru Kopejtka, „Kolomazi, čtěte zaříkávání…,“ a Kolomaz zřejmě četl, co jsme měli v knížce zaškrtnuto zeleně:
 
-  
+</section>
+
+<section>
 
 _Tělo do hrobu přísluší;  
 běda, kdos nedbal o duši!_
 
-  
+</section>
+
+<section>
 
 _Ty mrtvý lež a nevstávej,  
 pánbůh ti pokoj věčný dej!_
 
-  
+</section>
+
+<section>
 
 _Maria panno! při mně stůj,  
 u syna svého oroduj!_
 
-  
+</section>
+
+<section>
 
 _Maria, matko milosti!  
 z té noci zlé mě vyprosti!_
 
-  
+</section>
+
+<section>
 
 Pak se mihla vzduchem houba a rovnou mě praštila do hlavy, to Tieftrunk od tabule na nás hodil houbu ke kamnům a trefil zrovna mě, hned jsem vykřikl, svalil se a dělal mrtvého. Půl třídy se na mě vrhlo, aby mě křísilo, ale Brachtl se prodral nejdál, obličej přitiskl na můj, že jsem se až dusil dobrým sladkým peprmintem, a pak mě chytil za krk a volal, že mě křísí, křísí, křičel jsem a kopal a pak se ozval zvoneček jak skřivánek na jaře nad širými poli.
 
@@ -171,7 +219,9 @@ A sotvaže češtinář odešel, vrhl jsem se na Fürsta, který nestačil uté
 
 Brachtl mě pak líbezně pohladil, dal mi žvýkačku a řekl, že zítra musím k nim rovnou ze školy. Udělají řízky a všechno, co budu chtít, a dnes k nám zavolají.
 
-  
+</section>
+
+<section>
 
 Ke třetí hodině odpolední, kdy venku sněžení zesílilo a na chodnících bylo více bláta a v bytě byl tu a tam odstaven nábytek, ale ještě se celkem nic nedělo, ke třetí hodině odpolední se ozval ze dveří pracovny hlas, který mě volal.
 
@@ -222,3 +272,5 @@ A pak jsem cítil, že mi rukou stiskl hlavu a přitiskl na stůl, na tu velko
 „Tak, Hrone, začneme,“ zvolal do předsíně, „kde jste,“ a Hron vyskočil z rohu a řekl: „Nebeskej Otec nám pomož.“
 
 Vskutku pomož, myslil jsem si a musil se usmát. Bylo to tak chytré, že už to nemohlo být chytřejší, a nemít tak dobré nervy, usmál jsem se, ležel bych už v téhle chvíli úplně namol.
+
+</section>

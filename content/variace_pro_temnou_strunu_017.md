@@ -3,6 +3,8 @@ title: '12'
 contentType: prose
 ---
 
+<section>
+
 Týden před pololetním vysvědčením se otec na konci večeře zeptal, zda se doma vůbec někdy učím. „Ještě jsem tě nikdy, co chodíš do toho gymnázia, neviděl sáhnout na knížku nebo psát nějaký úkol,“ řekl na konci večeře v jídelně, zády k zrcadlu, pod nímž je příborník s karafou vody. „Ještě jsem tě nikdy, co chodíš do toho gymnázia, neslyšel o něm promluvit pár slov.“
 
 „Učím se, jak potřebuji,“ řekl jsem a byl jsem z těch slov celý pryč, copak mohl vidět, jak se učím, nebo slyšet mě, i kdybych se o gymnáziu uvykládal? Vždyť byl skoro pořád pryč, a byl-li právě doma, tedy v pracovně, kam se za ním jen tak pro nic za nic nesmí, do mého pokojíku nikdy nevkročil a nepromluvil se mnou slovo. „Učení mi jde dobře,“ podotkl jsem, „tak se snad, doufám, doma vůbec učit nemusím.“
@@ -115,7 +117,9 @@ Pak zvonilo a pan profesor za katedrou se zvedl. Brachtl vstal a dal mi ruku z
 
 „Říkám, aby ses šel na ni kouknout, jestli tam vůbec pojedeš,“ zvolal do jeho bledé, zděšené tváře, „Vodní ulice je velká ulice ve středu města a Michal má pravdu…“ A strčil do Fürsta, až si sedl do lavice a zapnutá aktovka, kterou měl na desce, mu spadla na klín. Ti, co stáli kolem, se začali smát, byl mezi nimi i Grund. Vpovzdáli stál Dohaltský a neřekl nic, a stál též Katz a mlčel. A tu se stala téměř neuvěřitelná věc. Nikdo by byl nečekal, že by se Fürst mohl takhle vzepřít. Zvedl se z lavice a neuměle praštil Brachtla pod krk. Za pár vteřin ležel podruhé na zemi, tentokrát na parketách, ale natolik byl ještě při smyslech, že dokázal, aby krev, která mu tekla snad ze zubů nebo z nosu, nepotřísnila jeho límeček a šaty. Kolem se ozýval souhlas, a bylo to přece samozřejmé. Začal se rvát. Dal první ránu. Uhodil pod krk. Jen Dohaltský mlčel, a když jsem pohlédl na Katze, jeho hezká čistá tvář jako by se násilím usmála, zavrtěl hlavou a šel. Pak Brachtl kývl na mě a na Mínka, který to vše vyjeveně pozoroval, a řekl, že můžeme jít.
 
-  
+</section>
+
+<section>
 
 Šternberský park v zimě je pustý a prázdný.
 
@@ -217,7 +221,9 @@ Nemohl jsem se dočkat večera. Až se otec vrátí a spatří vysvědčení. M
 
 „V pokojíku na stole máš _pomeranče_,“ řekl mi, když přehlédl vysvědčení, které jsem mu podal, a hned mi je zas vrátil zpátky.
 
-  
+</section>
+
+<section>
 
 Kousal jsem povlak deky, bílý, ztvrdlý, suchý, s vůní květin, co se to ve mně dělo, jsem nevnímal, snad to nešlo ani vnímat, jen cítit. Připadalo mi to jako něco, co vůbec nemá smysl, anebo je to jenom sen.
 
@@ -230,3 +236,5 @@ Po večeři totiž přišla do jídelny Růženka sklidit nádobí a řekla:
 Kousal jsem povlak deky, byl čím dál měkčí a vlhčí, a pak z toho všeho, co jsem v sobě sotva vnímal, jsem se vzchopil. Nemělo to smyslu, ale náhle to nějakého smyslu začínalo nabývat. Náhle to začínalo nabývat smyslu a něco zcela přesného značit, jako když se pohne stín na stropě a je z něho obraz. Čekání na vysvědčení, všechny ty mé sliby, zmlácení Fürsta, cesta ze školy, nějaká zpráva o změnách ve vládě a v armádě za _jediné poslední odpoledne_… to poslední bylo směšné, ale začínalo to mít smysl. Náhle jsem se probral. Náhle jsem se vzpamatoval. Náhle se ve mně něco hnulo. Shodil jsem deku a usmál se. Tak klidně se usmál, že jsem se klidu vlastního úsměvu až lekl. Ale byl to jen mžik, tak co by se brnklo prstem o strunu. Změny ve vládě a v armádě, napadlo mě, ve vládě a v armádě… takovéhle zvraty se nemohou stát nikde na světě, jen _u nás_. Na takovéhle zvraty u nás jsem přece už zvyklý. Vstal jsem z gauče, chvíli před ním postál, postál ve svém novém světlém pyžamu se slabými růžovými proužky a hleděl na své bosé nohy na koberci. Pak jsem vzal ty _jeho_ milé pomeranče, které ležely na stole, šel k oknu, otevřel a všechny je hodil do ulice jako prázdné hloupé smetí. Smetí, které by mohlo zajímat leda hloupou přizabitou potrhanou mouchu nebo nějakého Smolíčka pacholíčka. Zaduněly, rozkutálely se po chodníku, kde právě nikdo nešel, nikdo nešel ani na druhé straně kolem Kocourkové, nebylo tam dole nikoho, kdo by se rozběhl, kdo by do toho kopl, kdo by to nakopl až někam ke střechám, k anténám protějších domů, bylo ticho, jen jedno okno v našem bytě, slyšel jsem a musil jsem se usmát, se otevřelo… A pak jsem se musil usmívat i pozdě k ránu, když jsem usínal, kdy tma za oknem se začala proměňovat v šero a hodiny v předsíni, které jdou o deset minut napřed, tloukly šest, za hodinu jsem měl vstávat do školy. Růžové proužky pyžama pod krkem jsem měl zčervenalé, povlak deky byl také zčervenalý, voněl, teď jsem poznal, po růžích, dole byl roztržen, jak jsem kopal, a pod rtem a na bradě jsem měl zaschlou krev… Růženka snad dosud ještě volala v kuchyni, že skočí z okna, a matka dosud ještě snad chodila ve svém pokoji nebo v jídelně, zastavovala se u zrcadla u příborníku, na němž stála karafa s vodou jako zbaňatělá křišťálová koule, a hleděla do zrcadla na svou znavenou, nehybnou, mlčící tvář… ale mně bylo dobře. Bylo mi docela dobře, když jsem usínal, i když jsem měl pod rtem a na bradě zaschlou krev, měl jsem za chvilku zas vstávat, bylo mi dobře, i když jsem dokonce pomyslil na to, co řeknu v příštích dnech Brachtlovi, Mínkovi, bylo mi dobře, když jsem myslil na Katze, Buku, Bronowského, na vše, co se včera stalo, i na Fürsta, kterého někdy brzy strašně zmlátím, a ještě na spoustu dalších věcí, a zdálo se mi, jako bych pásl červené koníky.
 
 Doma bylo rozhodnuto.
+
+</section>

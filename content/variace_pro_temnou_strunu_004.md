@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Variace pro temnou strunu](https://search.mlp.cz/cz/titul/variace-pro-temnou-strunu/26646/) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1988. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 7. 2. 2020.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
+
+</section>

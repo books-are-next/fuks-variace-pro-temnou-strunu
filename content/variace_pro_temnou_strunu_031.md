@@ -3,6 +3,8 @@ title: '26'
 contentType: prose
 ---
 
+<section>
+
 Náhlá změna trvala už tři dni, docela tak, jako by někdo mával kouzelným proutkem. Sníh roztál, vysvitlo slunce a okamžitě všechno vysušilo, ulice a chodníky byly jako vymetené a lavičky v parku, pokud tam přes zimu zůstaly, byly tak suché a čisté, že se na nich dalo sedět.
 
 „Což to,“ vzdychla Růženka v kuchyni u chladné plotny, na níž stál cukr a v misce deset rozklepnutých žloutků na krém, „horší je, že _přijde_ k večeři, matka také. Teď právě šla k ženě generála, už zase umírá.“
@@ -205,7 +207,9 @@ Sáhl do kapsy a vyňal kožené rukavice, ani jsem dříve nepostřehl, že je
 
 „Tak se měj hodně hezky, sni, naslouchej vlastní duši a dobře se uč na klavír. Ať někdy, když bůh dá, že se zase potkáme, sednu si do křesla a ty si sedneš ke klavíru, a já budu poslouchat, jak hraješ Beethovenovu Appassionatu… Když bůh dá.“ Dal klobouk na své delší tmavé vlasy, trochu se rozhlédl prostranstvím, ještě jednou pohlédl na pomník a na lavičku, na níž jsme oba ještě před chvílí seděli, a pak rychle odcházel. Hleděl jsem za ním jako ve snu, strnulý, nehybný, dlouho, dokud nezmizel mezi holými černými stromy, keři, dokud se v nich neztratila žluť jeho velké vlněné šály, a bylo mi, jako bych byl právě minul život.
 
-  
+</section>
+
+<section>
 
 Večeřeli jsme v jídelně na bíle prostřeném stole. Matka seděla v čele stolu v tmavých šatech a s perlami na krku, vrátila se před chvílí od ženy generála, která zřejmě stále žila, seděla sice vzpřímena, ale zamlklá a unavená, hleděla na ubrus, jako by nevnímala nic než jeho nekonečnou sněhovou bělost. _On_ seděl naproti mně, zády k zrcadlu, pod nímž byl příborník s karafou vody, ruce měl zkřížené na stole a hleděl na mne – bylo to téměř k nevíře. Jako by to nebyl on, ten, který bere kožený plášť, kufr a nasedá do velkého černého auta, který mě pozoruje chladným, přivřeným zrakem, jako by sledoval mouchu, který sedí v pracovně za zavřenými dveřmi a náhle z ní v noci vyrazí, jako kdyby to byl někdo úplně jiný. Hleděl na mne s jakýmsi líbezným, přívětivým zájmem, skoro přátelsky, a já se musil v duchu smát. Tak už je to zde, myslil jsem si, už je to tady. Něco se děje a tobě nic jiného nezbývá. Jsi v koncích. Bylo jisté, že mě tím neoklame, ale byl jsem zvědav, jak si bude počínat dál. Jak svou hru se mnou rozvine, aniž ví, že jsem ji prohlédl od první chvíle a tuším, že se něco děje, z čeho je v koncích. Musil jsem se v duchu smát, měl jsem však v té chvíli také plnou hlavu setkání z parku. Myslil jsem na vše, co mi Artur Jacobson říkal, byla však otázka, zda jsem myslil na vše, co mi říkal skutečně – možná že jsem leccos z toho zapomněl nebo si to pamatoval zčásti, ale panebože, vždyť mi snad v lecčems mluvil z duše… pak mi opět blesklo, co se děje tady u nás doma, pálení papíru v pracovně, malování, nošení věcí do sklepa v příštích dnech, a že musím mlčet, aby po nás všech nebyla veta… napadl mě i vrah, to jediné byla hloupost, představa Růženky. Za chvíli měla přijít s večeří a poprvé se objevit v tom svém novém zeleném županu.
 
@@ -360,3 +364,5 @@ Chvíli jsme se usmívali a pak se zeptala, zda tedy vskutku nic dalšího nev�
 „Chodí po náměstích, rozbaluje prapory, hraje na buben, trubku a harnomiku, prostře kobereček a káže. Kocourková káže na takovém modrém. Ten generál přitom rozdává letáky a Kocourková teď jen ještě čeká, kdy jí zavede velkoobchod banány. Je to Američan.“
 
 V pokojíku jsem ani neotevřel rádio. Byl to zvláštní pocit – bylo mi _černě a bíle zároveň_. Artur Jacobson od nás odjížděl a já již věděl, že od nás neodjíždí, ale prchá. Byl to útěk před Hitlerem, který nebyl u nás, ale v Německu, Rakousku a v Sudetách, ale on měl zřejmě strach a domníval se, že po něm jdou…, chvilku mi to nějak nešlo dohromady. Říci své, neustoupit násilí, a – strach a útěk…, ale pak jsem si vzpomněl na jiná jeho slova a trochu se mi to v hlavě srovnalo. Kdesi v duši jsem doufal, že ho ještě někdy spatřím. Třeba opravdu za mnoho let, někde v cizině, kam se třeba dostanu, po nějakém koncertu, jak řekl. Měl bych se skutečně líp učit na klavír, blesklo mi, abych ho pak po nějakém koncertu překvapil a zahrál mu Appassionatu stejně jako Iloně Lányiové, mé tetě. Napadla mě velká Bachova Mše h moll, kterou máme u gramofonu pod oknem v pokoji babičky, a litoval jsem, že jsem se mu o tom nezmínil. Pak mi hlavou blesklo to malování, nošení věcí do sklepa, ten dárek a všechno ostatní… to všechno ostatní, a byl to zvláštní pocit, bylo mi černě a bíle zároveň. Zavřel jsem oči, abych radši spal, a usnul jsem jako v _černobílém_ sametu.
+
+</section>

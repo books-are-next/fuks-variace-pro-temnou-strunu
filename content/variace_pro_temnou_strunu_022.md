@@ -3,6 +3,8 @@ title: '17'
 contentType: prose
 ---
 
+<section>
+
 A pak jsem řadu nocí ani nespal.
 
 Venku na ulicích byly tlampače, na temném nočním nebi občas zabzučelo letadlo, v novinách stále tytéž zprávy, ten anglický lord, německá strana, vážná, napjatá situace… kvůli tomu bych byl přece snad spal, jako spali jiní, Brachtl, Mínek, Buka, Katz či Arnstein… Anebo jsem nespal proto, že ve škole už zas začal učit zeměpisář a češtinář vykládat Holoubka? Chystal se, že přinese helikón a hlínu z nějakého smutného hrobu, suďbůh proč hlínu ze smutného hrobu, spíše jsme čekali, že přinese živé veselé holoubě, kvůli tomu bych byl přece snad spal také… Anebo jsem nespal proto, že se mi zjevovaly rubínové korále, černé dlouhé řasy – a hlas, jaký jsem v tomhle našem bytě nikdy neslyšel, leda z gramofonu, myslil na to, jak se na mě dívala a smála a teď byla v Rakousku a snad ji vídal Gini… bože, proč jsem nespal, jak to bylo možné? A pak jednou přišla noc, kdy jsem snad vůbec nezamhouřil oka. Převracel jsem se v pokojíku na gauči u zhasnutého rádia jako omráčený kapr, na nočním nebi nezabzučelo jediné letadlo a v bytě se rozprostíral _podivný, nápadně mrtvý klid_.
@@ -34,3 +36,5 @@ Zprvu jsem nevěděl, zda je to _on_, připadal mi nějak změněný. Jako by to
 „To by se…,“ řekl po chvíli těžkého mrtvého ticha, v němž jsem nehybně zíral do tmy dveří, „to by se musilo léčit. To bych _vás_ musil _někam poslat_…“
 
 Vstal jsem z gauče, zdvihl deku, která se válela skopaná na zemi, bylo devět hodin dopoledne. Za oknem byl krásný zářijový den, v zácloně plno paprsků. Když jsem vyhlédl z okna, všiml jsem si, jak se na střechách protějších domů třpytí světlé antény a někde v dálce, asi u Svatého Michaela, jsem zaslechl vyzvánět zvony. „To bych vás musil někam poslat…,“ musil jsem se usmát, někam poslat… no ale to, že řekl „náměsíčník“ a že mi vykal, byl zřejmě nějaký žertíček. Otočil jsem se ke gauči na deku, sáhl si pod rty a na bradu, pak jsem si ještě pohlédl pod krk na pyžamo, pak pod vlastní bosé nohy, bylo to úžasné. Pod rty a na bradě to bylo hladké, pyžamo nebylo potřísněno, ani deka, neležel jsem tentokrát zkrvavělý ani na zemi, ale stál, jsme přece jen lepší rodina, musil jsem se usmát… a od Svatého Michaela vyzváněly zvony, byla neděle, po ulici šli nějací svátečně oblečení lidé jako na špacír, ale Kocourková měla z neznámé příčiny otevřeno a právě se zjevila ve výkladě, odkud brala hrst zelené trávy…
+
+</section>

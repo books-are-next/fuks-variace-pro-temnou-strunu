@@ -3,6 +3,8 @@ title: '8'
 contentType: prose
 ---
 
+<section>
+
 A přešel týden, deset dní… a už jsem je znal všechny. V tom hradě plném zábavy, radosti a štěstí seděl u dveří Kolomaz…
 
 Když někdo zaklepe, Kolomaz vstane a jde otevřít. Roznáší i oběžníky a ke školníkům chodí pro křídu. Donese ji až o přestávce, ale je aspoň na další hodinu. Nejpodivnější na něm však je chůze. Když jde, předklání se, klátí rukama u kolen a prolamuje nohy, takže jde, jako by se podpíral o zem. Ale snad tak chodí proto, že je tak velký, největší ze všech. Když si stoupne na židli, kterou mu dá Buka na katedru, dosáhne i na lampu na stropě, což nedokáže ani pan profesor na češtinu, ač se jednou s Kolomazem vsadil… Když je Kolomaz vyvolán k tabuli, jde tak, že se skoro na každém kroku zastaví. Někdy, než vstane a jde k tabuli, hrabe se ještě v tašce, jako by hledal sešit. Pan profesor třídní, ten menší tlustší pán s prošedlou hlavou, který nás učí matematiku, je nedočkavý a řekne Kolomazovi, ať přijde bez sešitu. Při češtině se Kolomaz nikdy v tašce nehrabe. Při češtině nikdo sešit mít nemusí…
@@ -44,3 +46,5 @@ V té řadě u dveří, kde je Bronowski, Chvojka a Kolomaz, sedí ve dvou p�
 A soused Vilda Brachtl? Má ty tmavší rozcuchané vlasy, nedbale shrnuté punčochy, světlé manšestrovky, ale místo tmavého pulovru nosí i svetr nebo kabát a má trochu ztvrdlé dlaně. Je trochu drsný, ale také i jemný, a je snad nejopálenější ze všech, jako by stále lezl po stromech anebo skákal ve větvích. Nosí s sebou skleněnou černobílou opici, kterou jsem mu dal, při vyučování ji občas vyndá z kapsy, postaví na lavici, a občas mírně voní sladkým kořeněným peprmintem. Jeho otec je plukovník.
 
 A v přízemí je ten mramorový Laokoon opletený hady, ve výši patra starci a vedle vrat státní znak lva krále s jednou hlavou, dvěma ocasy a čtyřma nohama, z nichž dvě horní vypadají jako ruce. Znal jsem je všechny, všechny jsem už znal, už jsem vskutku nebyl cizí opuštěná ovce, vše, co jsem si přál celá ta dlouhá léta v pokojíku, před kostelem, na nádraží, všude, bylo tu. A pak přišla rána.
+
+</section>

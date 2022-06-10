@@ -3,6 +3,8 @@ title: '20'
 contentType: prose
 ---
 
+<section>
+
 Rozpustili Sudeťáky, ordnery, vyhlásili výjimečný stav, ale nějak to nepomohlo. Ta veselost, když vyhlásili výjimečný stav a rozpustili Sudeťáky, ordnery, vzala nějak náhle zasvé. Strážníci na křižovatkách se opět přestali usmívat, lidé si vyprávět vtipy a zdravit se, v hospodě v Hradební byl už zas klid. Nad městem létala letadla častěji než předtím, a vskutku – mluvilo se o válce. Včera jsem řekl Brachtlovi o cigaretách, ale _nejen jemu_, řekl jsem o nich i Bukovi, Katzovi a Hlásnému a také jsem řekl, že bych měl z té války, kdyby vskutku byla, dost strach, snad jsem to ani tak nemyslil. „Vykouříme je,“ všichni ihned souhlasili, a Katz se na mě usmál a řekl, abych se nebál. „Válka tak rychle být nemůže, Míšo,“ řekl a usmál se na Brachtla, „neboj se. Vždyť by napřed musila být mobilizace. Pojď, půjdeme ze školy _spolu_…“ A dnes ráno, když jsem šel do školy, jsme měli v oknech zatemnění. Zatemnění, o němž se mluvilo už v továrně. Ráno totiž, když jsem šel do školy, rádio oznámilo, že _počínaje dneškem_ se nesmí večer po setmění na ulicích svítit a v oknech musí být tmavý papír, aby do ulic nepronikl jediný paprsek. Cestou do školy jsem také viděl na některých domech sirény. Vynořily se jako houby po dešti, ale spíše tam byly už dřív a já si jich nevšiml, i o těch se mluvilo v továrně… no a odpoledne přinesl Hron tři plechové válce s popruhy, masky proti plynu.
 
 „U každý je tištěnej návod,“ řekl mi, když mi je předával, neboť doma nikdo jiný nebyl, „to dole sluje filtr a dá se to vodšroubovat. Jedna je pro tebe a dvě pro dámy. Spánembohem…“
@@ -89,7 +91,9 @@ Pak znovu pohlédla na masky v plechových válcích, řekla, že matka koupí 
 
 „Kdyby tak tu masku viděla babička,“ zasmála se, „ta by se, chudák, asi zbláznila. Měla bych ten její obrázek taky někdy trochu utřít. Až zas budu luxovat…“
 
-  
+</section>
+
+<section>
 
 Druhý den ve škole se nemluvilo skoro o ničem jiném než o zatemnění. Ovšem, jaký div. Vždyť včera večer vstoupilo v platnost nařízení a poprvé po západu slunce se nerozsvítila pouliční světla ani reklamy, nesvítilo vůbec nic. Jen slabá modrá světélka hořela v pouličních lampách, a čím více přecházel večer v noc, tím více se město nořilo do černé, bezedné tmy. Tak se mi to aspoň zdálo z našeho okna, u něhož jsem stál a hleděl na protější chodník, krámek Kocourkové, antény na střechách domů. Kopejtko v pruhované kazajce před zvoněním vykládal, jak v Záleské ulici, kde bydlí, se večer ve tmě honili s kluky, až přišel strážník a zahnal je. Chvojka stál u okna a odškraboval nehtem kousky papírových pásků, jimiž přes noc někdo polepil okna třídy. A Tieftrunk přinesl do třídy tu protiplynovou masku. Nasadil ji Kopejtkovi na hlavu a pak ho honil mezi lavicemi, jen však chvilku, neboť Kopejtko se v masce dusil a brzy ji ze sebe strhl. S křikem jsme se vrhli na Tieftrunka, všem nám bylo jasné jedno: dnes jsme měli poslední hodinu češtinu a bylo nemožné, aby si při ní Tieftrunk masku nenasadil. „Samozřejmě,“ zvolal Tieftrunk a všichni jsme mu provolali slávu. Dříve však byl zeměpis…
 
@@ -131,21 +135,27 @@ Tieftrunk uhasil cigaretu a sedl si. Brachtl, jenž seděl ode mne co nejdále 
 
 Okem o mne nezavadil a já se přemohl a dělal jsem, že jsem nic neslyšel. Měl jsem však dojem, že jsem trochu zbledl. Obrátil jsem se na pana profesora, který pomalu začal číst:
 
-  
+</section>
+
+<section>
 
 _Na pahorku mezi buky  
 kostelíček s věží nízkou,  
 z věže pak slyšeti zvuky  
 hájem a sousední vískou._
 
-  
+</section>
+
+<section>
 
 _Není zvuk to zvonku jemný,  
 tratící se v blízké stráně,  
 dřeva tě to rachot temný,  
 zvoucí lid do chrámu Páně._
 
-  
+</section>
+
+<section>
 
 „Jak vidíte,“ řekl češtinář, odkládaje knihu, „nebude Poklad tak lehký. Budeme potřebovat řehtačky. Jsou Velikonoce, Velký pátek…,“ řekl a pohlédl na mě, „Velikonoce, a přitom máme… září. Ale což to,“ řekl, „my budeme potřebovat také nějaké stříbro a zlato. To jsem zvědav, kde ho sebereme… Tieftrunk, pojďte k tabuli. K úvodu nakreslíme na tabuli pahorek s buky…“
 
@@ -167,14 +177,18 @@ Tieftrunk šel k tabuli a češtinář vzal křídu a jal se malovat jakýsi 
 
 A když ředitel mlčel, češtinář se obrátil na kejklíře Doubka a vyzval ho, aby panu řediteli přečetl na ukázku první sloku z Pokladu na straně pět, který právě probíráme. A Doubek otevřel Kytici a četl:
 
-  
+</section>
+
+<section>
 
 _A tu na dveře buch, buch, buch!  
 burácí zvenčí její druh:  
 „Vstávej, umrlče, nahoru,  
 odstrč mi tam tu závoru!“_
 
-  
+</section>
+
+<section>
 
 „To není Poklad,“ řekl pan profesor, „to je Svatební košile. Doubek se spletl. To víte, chudáčci,“ pohlédl s povzdechem na modrorudou vousatou tvář ředitele, „to jim odpusťte. Mají plnou hlavu možné války. Od rána do večera nemyslí na nic jiného než na cé pé o.“
 
@@ -188,7 +202,9 @@ Ve dveřích třídy jsem se přiblížil k Brachtlovi, ale ani si mě nevšiml
 
 Bylo mi zle. Vzpomněl jsem si, že mám odpoledne klavír.
 
-  
+</section>
+
+<section>
 
 Když jsem přišel domů, Růženka v kuchyni mi oznámila, že Hron dnes kopal ve sklepě a ráda by viděla, co to je. „Říká, že elektrika,“ řekla, „to přece elektrika není. Elektrika se přece takhle nekope. Co tam v tom sklepě pořád rochá?“
 
@@ -231,3 +247,5 @@ Pak se zvenčí ozval strašný rachot, dunění, až se okna třásla, zřejmě
 Zabořil jsem obličej do polštáře a srdce mi tlouklo jako divoký zvon.
 
 Mobilizace byla vyhlášena.
+
+</section>

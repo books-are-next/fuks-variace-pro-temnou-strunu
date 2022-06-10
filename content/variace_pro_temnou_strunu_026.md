@@ -3,6 +3,8 @@ title: '21'
 contentType: prose
 ---
 
+<section>
+
 A ač byla vyhlášena mobilizace, k hranicím už týden jezdily kolony aut, tanků, děl, na nebi kroužila letadla víc než předtím, večer se město hroužilo do tmy a říkalo se, že co chvíli může vypuknout válka, my jsme přece jenom ještě fotbal hráli. Týden po vyhlášení mobilizace odpoledne na Křížovém vrchu, jehož příkrá strmá alej se začala pokrývat listím, bylo krásné slunné podzimní počasí. To strašné, co mě při fotbale potkalo, rodilo se toho dne už od časného rána, kdy nad naším domem přelétla mračna letadel a já vstával v horečce.
 
 Když jsem si ve třídě s hlavou mírně rozpálenou sedl do lavice, objevil se Brachtl. Vypadal dnes divočejší než jindy, vlasy měl v očích, rozhalenou košili u krku zmačkanou, jako by v ní spal, krátké manšestrovky zaprášené a punčochy až ke kotníkům, ani si mě nevšiml. Mluvilo se o tom, kdo na ten dnešní fotbal přinese míč. „Já,“ řekl Arnstein, „jestli mě ale doma pustí, když se čeká válka.“ Buka navrhl, aby míč pro jistotu vzal i Kocourek. „Někdo musí vzít i nákolenky,“ řekl Katz, „hříště na Křížovém vrchu, to není žádné malé hříště, jsou tam lajny a branky a tohle bude skutečný zápas. Kdo je vezme?“
@@ -94,3 +96,5 @@ Když jsem přišel domů a vešel do jídelny, kde se jedině svítilo, matka 
 Vytřeštil jsem na něho zrak, hleděl na mě jako malíř, ač neměl šálu ani mašli a ani nedržel štětec, ale mohl jej držet, viděl jsem ho jen velmi mlhavě a neurčitě, stejně jako matku a Růženku, které teď stály nade mnou, jako by mi měřily horečku. Ale o jeden zlomek vteřiny dřív, než jsem se na něho mohl podívat trochu klidněji, sklenulo se v jídelně nesmírné ticho, v němž jako by pohasínal rozsvícený lustr nad stolem, a ještě dřív, než se to stalo, ba ještě o zlomek předtím, než Růženka vyřkla, že je odtroubeno, a matka vyřkla, že je po mobilizaci, válce, a host řekl: „bez výstřelu, milosrdně, bez kapky krve,“ zjevila se mi žhavá červená rozkvetlá růže.
 
 Stalo se něco neuvěřitelně zlého.
+
+</section>

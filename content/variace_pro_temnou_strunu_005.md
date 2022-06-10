@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > Asi znali zamlženost člověčí  
 > ale nenalézali směr.  
 > Všude smutek  
@@ -18,3 +20,5 @@ contentType: prose
 > a humanitě?
 
 — Moše Goldreich
+
+</section>

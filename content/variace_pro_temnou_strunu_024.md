@@ -3,6 +3,8 @@ title: '19'
 contentType: prose
 ---
 
+<section>
+
 A pak přišel svátek.
 
 Strážníci na křižovatkách se docela lidsky usmívali, a už to byl vlastně zázrak, kdypak se stává, aby se nějaký strážník na křižovatce lidsky usmíval, chodci na ulicích si vyprávěli vtipy, v parku u pomníku hraběte Šternberka se na lavičkách docela cizí lidé zdravili a smáli, v hospodě v Hradební, kde bydlí stará vdova profesorka, zpívali a hráli tak družně, že to bylo slyšet až k nám. Konečně totiž vyhlásili v pohraničí ten výjimečný stav, o němž se mluvilo v rádiu a v továrně, navíc rozpustili Sudeťáky, ordnery a byl konec.
@@ -65,7 +67,9 @@ Náhle se ozvalo cvaknutí domovních dveří, matka se vracela.
 
 „Tak teď oslavíme krach Sudeťáků,“ zvolala Růženka, „nákup je zde. Jistě šunka a salát a také ovoce od Kocourkové. Vida,“ zvolala a otevřela dveře do předsíně, aby to bylo slyšet, „mohla jsem ovoce vzít ráno taky, když už jsem tam byla na skok, měla tam nějaké hrušky a švestky…“
 
-  
+</section>
+
+<section>
 
 Večeřeli jsme v kuchyni, matka, Růženka a já, otec byl někde v Chebu nebo v Aši, večeřeli jsme jen v kuchyni, ač právě dnes by se bylo hodilo večeřet v jídelně na prostřeném stole pod zářícím křišťálovým lustrem… byl vskutku velký den, svátek. Otevřeným oknem jsme slyšeli z Hradební, kde bydlí má stará vdova profesorka, zpěv, teď večer tam zpívali a hráli ještě živěji než v poledne a Růženka co chvíli skákala od stolu k oknu, smála se a říkala, že dnes si ta má vdova profesorka na ten klavír ani nezabrnká… Pak náhle zvonil telefon v purpurovém pokoji, jenž je určen pro nás. Matka odložila příbor, vyšla z kuchyně, Růženka skočila ke kredenci, na níž stále byla krupice a láhev mléka, a řekla:
 
@@ -163,7 +167,9 @@ Oknem zazníval z Hradební zpěv a smích, slavili krach Sudeťáků.
 
 „Vdova umělkyně možná že už leží u pedálu,“ zasmála se Růženka, „tak jdeme.“
 
-  
+</section>
+
+<section>
 
 Velký černý psací stůl byl téměř prázdný. Stál na něm jen telefon, temná stolní lampa, desky, kalendář a nějaká fotografie. V rohu kachlová kamna, v nichž se nikdy netopilo, před nimi klubovky s kulatým stolkem, v jehož desce se obrážely dvě sklenky, které na něm stály, a světlo lustru, který jsme rozsvítili. Podél jedné stěny regály s knihami, pak velké žluté dveře ve zdi. Na oknech zpola zatažená záclona, na niž dopadalo světlo lustru. U protilehlé stěny temná skříň. Na zemi měkký červený koberec. Leskl se od dopadajícího světla.
 
@@ -292,3 +298,5 @@ Dopotácela se ke dveřím do chodby a naslouchala. Byl klid.
 „Neprší?“ řekla Růženka.
 
 V pokojíku jsem sáhl do kapsy, vyňal zápalky a dvě cigarety. Pak jsem si svlékl kalhoty a košili, hodil to na koberec a jen v trenýrkách praštil sebou na gauč. Cítil jsem v sobě silné kořeněné teplo, mentol to nebyl, něco jiného, špatně mi nebylo. Podal jsem si zápalky a jednu cigaretu a pak mě napadlo, co kdyby se vskutku náhle vrátil a vtrhl sem, byl to nesmysl. I kdyby se byl náhle vrátil, _teď_ by sem jistě nevtrhl, copak jsem byl v předsíni u věšáku nebo stojím u okna? To se mohlo stát jen tu sobotu, když měl návštěvu. Že jsem se ani moc neděsil, napadlo mě, když jsem viděl fotografii mrtvého hocha _s lasem_, jindy bych se byl přece jistě zděsil víc, čím to asi bylo? Snad tím, že jsem se napil? Ležel jsem na gauči na zádech, jen v trenýrkách, s mírně skrčenýma nohama, škrtl jsem zápalku a zapálil si. Opatrně a lehce jsem nabral kouř do úst, podržel, vydechl, pak ještě jednou… náhle jako by se mi zvedl žaludek a trochu se dusil. Náhle jsem měl dojem, jako by v bytě kromě matky a Růženky byl ještě někdo jiný. Někdo v předsíni, v purpurovém pokoji, v pokoji babičky, v jídelně, nebo snad dokonce v pracovně, z níž jsme před chvílí prchli, někdo někde, odkud mě může na tomto gauči v tomto pokojíku vidět. Ten pocit za pár vteřin zmizel, přesto jsem už dále nekouřil. Co, myslil jsem si, točí se mi hlava z pití, cítím v sobě silné kořeněné horko, radši zkusím ty cigarety někdy mimo dům, až nebudu pít, třeba někdy s Brachtlem, také s Katzem, dá-li se k tomu svést, bude to ostatně lepší než kouřit sám vleže na gauči v tomhle pokojíku, a pak zkusím i trochu toho kouře polknout. Potmě jsem cigaretu uhasil a schoval do kalhot, jež ležely u gauče. „Dnes byl vskutku svátek, velký den,“ blesklo mi hlavou, která se mi stále točila, a trochu jsem pohlédl na své červené trenýrky, které byly docela krátké, „vloupal jsem se do pracovny, pil jsem, trochu jsem i kouřil, co bych měl teď asi ještě dělat? V Hradební slaví krach Sudeťáků a celé město bude leccos tropit do noci…“
+
+</section>

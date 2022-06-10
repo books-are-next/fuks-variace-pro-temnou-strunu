@@ -3,6 +3,8 @@ title: '28'
 contentType: prose
 ---
 
+<section>
+
 A pak přišel konec.
 
 Lístečky se zelenají, ptáci zpívají, stromy šumí… ležím na kraji lesa v trávě a hledím před sebe. Z velké dálky cestou od vsi, za níž na kopečku je hřbitov, se ke mně pomalu, pomaloučku blíží nějaký člověk.
@@ -452,3 +454,5 @@ Ale chvilku předtím, než tou strašnou hrůzou a děsem něco ve mně povoli
 Ležel jsem na kraji lesa v trávě, v dálce byla vesnice a za ní na kopci hřbitov a cestou od vsi se ke mně pomalu, pomaloučku blížil nějaký člověk. Na tu dálku se mi zdálo, že je otrhaný, ošumělý, má staré zaprášené boty a bledou pohublou tvář. Trochu jsem se nadzdvihl, tráva byla studená a vlhká, byl jsem zimou celý zkřehlý, ale bylo mi to jedno. To všechno, co jsem prožil, viděl, slyšel… mělo to vůbec nějaký smysl? Nějakou cenu? Bylo to vůbec k něčemu? Bylo v tom několik malých šťastných a světlých chvilek, které byly k něčemu, měly cenu, smysl, Vilém Brachtl, Ilona Lányiová, Mojžíš Katz, Artur Jacobson, bylo…, ale bylo to jen několik malých chvilek, kapek v obrovském, nekonečném, zkamenělém chladném moři, nic víc. Měl jsem být mrtev, a přece naživu a na světě, měl jsem být živ, a přece pro svět a život mrtev. Kdybych neměl být živ, myslil jsem si, kdo by mohl ke mně ještě přijít a mluvit se mnou? Kdybych neměl být mrtev, kdo by mohl přijít k mému hrobu a zapálit tam svíčky? Ten člověk od vsi se ke mně blížil a já viděl, že nemá potrhaný kabát, zaprášené boty ani bledou pohublou tvář, nýbrž že vedle něho kráčí obrovský čtyřnohý pes a je to místní varhaník. Když došel blíž, začala se nad krajinou snášet černobílá mlha a já viděl, že to není varhaník, nýbrž pastýř se psem a s prutem v ruce, za ním jde velké stádo ovcí. Když však došel až na kraj lesa a zastavil se přede mnou, viděl jsem, že to není ani pastýř se psem, ale mladý Škába, který teď bydlil s rodiči v chalupě u lesa, má v ruce prut a za ním se táhne hejno bílých labutí. Vtom zavál vítr, labutě rozepjaly křídla, daly se do běhu k nám a ve stromech a větvích temně zašumělo. Ale byl to klam a zdání. To nebylo temné zašumění, to zpívaly stromy a větve, jak zpívají odjakživa, když věje vítr, a budou zpívat věčně.
 
 Vstal jsem celý zkřehlý, a chvěje se zimou, pomalu jsem se vracel kamenitou cestou ke vsi.
+
+</section>
