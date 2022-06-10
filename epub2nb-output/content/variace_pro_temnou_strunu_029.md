@@ -3,6 +3,8 @@ title: '24'
 contentType: prose
 ---
 
+<section>
+
 Nebe bylo stále šedé, ale tak smutné a zkalené již nebylo. Přišla zima se sněhem, rampouchy a purpurou, blížily se Vánoce.
 
 „Protože se blíží Vánoce,“ řekl češtinář ve škole a jeho tvář se smála, „musím vám dát domácí slohový úkol s nějakým veselým námětem. Dám vám dvojí námět a vy si doma vyberte.“ A vzal křídu a napsal na tabuli ozdobným písmem dva názvy. „Má největší radost“ byl první. „Má největší hrůza“ byl druhý. „Už jednou jste něco podobného psali,“ řekl, „loni na konci roku. Psali jste ,Mé největší překvapení‘, to jest největší v životě. Tohle je podobné. Také se myslí největší radost a hrůza v životě. Zítra to donesete, nejmíň čtyři, nejvýš pět stránek…“ A pak znovu vzal křídu a nad slovo „radost“ nakreslil květinku, nad slovo „hrůza“ lebku a řekl: „Tieftrunk a Chvojka rozdají sešity.“
@@ -144,3 +146,5 @@ A pak chvíli vykládala, že v Německu musí dát Židé pokutu miliardu mar
 „Určitě,“ kývla, „nadiktuji to celé. Vyvzpomněla jsem si _prózu_. O tom, jak někdo večeří rybí kost.“
 
 Míjeli jsme právě dveře Hronů, odkud se ozývaly slabé údery a zpěv.
+
+</section>

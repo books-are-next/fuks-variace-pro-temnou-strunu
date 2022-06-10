@@ -3,6 +3,8 @@ title: '13'
 contentType: prose
 ---
 
+<section>
+
 Měl jsem tmavé dlouhé kalhoty a bílou košili a měl jsem si ještě vzít kravatu a nové černé lakové boty, jaké jsem měl loni na jaře u dědečka, ale o číslo větší, ale na tohle byl ještě čas. Hodiny v předsíni tloukly tři, byla tedy za deset minut celá, začal jsem se strojit předčasně. Abych se mohl na chvilku posadit do křesla, trochu se pootočit, abych neseděl zády, a opět se pokusit všechno jí vyložit, vyříkat, svěřit se, aby mi řekla pár dobrých lidských slov. Tentokrát tu nebylo šero, nýbrž světlo, bylo za deset minut tři, slunné odpoledne a na kulatém stolku u křesla nestála sklenka se zbytkem na dně, nýbrž sklenka docela prázdná, zato však vedle ní stála celá velká načatá láhev. Láhev čiré bílé tekutiny. Ten kousek citrónu, co ležel na misce za ní, nebyl ani vidět.
 
 „Tak tedy,“ řekla vídeňským dialektem, opět to byla ona, kdo začal mluvit, a já se v duchu ptal, zda opět neztroskotám, „tak tedy už je konečně ve škole. V tom gymnáziu u Šternberských sadů se znakem chudého lva krále, má, co chtěl.“
@@ -178,3 +180,5 @@ Trhla sebou tak prudce, že se jí náušnice rozklinkaly a čelem téměř nar
 Vstal jsem z křesla, pohlédl na stolek s lahví, sklenkou a kouskem citrónu, usmál se k vitrínce, pohovce i nahoru ke zdi, kde zařinčelo… tak vidíš, myslil jsem si, opravdu jsi mi nic neřekla, bylo to jako posledně, ale alespoň jsi se mnou trošku promluvila, pohovořila, vždyť bylo dobré i to, šel jsem. Zahlédl jsem ještě medvěda, jak vybaluje z papírku cukroví, které před chviličkou slítlo na jeho hlavu, a říká:
 
 „U vyslance mluv správnou němčinou, ne tou hrubou pruskou, sejdeš se tam s následníkem trůnu. Günterek bude císařem…“
+
+</section>

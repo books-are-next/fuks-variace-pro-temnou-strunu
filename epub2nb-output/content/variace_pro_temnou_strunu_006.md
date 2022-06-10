@@ -3,6 +3,8 @@ title: '1'
 contentType: prose
 ---
 
+<section>
+
 Bylo teprve pět hodin, ale ve vzduchu se šeřilo, že pomalu nebylo vidět na krok. Odložil jsem knížku s obrázky a bratranec Gini mapu Evropy.
 
 „Ta tvá knížka s obrázky má šagrénovou vazbu,“ řekl, „ani nevíš, co to šagrén je. Ale prohlížet si to můžeš. To se zrovna tak pro tebe hodí.“ A šel k oknu, pohlédl na ulici a řekl, že se zas žene nějaká pitomá bouřka.
@@ -59,7 +61,9 @@ Bylo to tak. Bylo to tak vždycky, když otec náhle odjel na deset dní do ří
 
 Střechy domů byly celé, také stromy, na zemi neležel jediný pták, jen na chodnících byly kaluže a bláto, některé antény na střeše protějšího domu byly nakloněné a jeden elektrický drát stržen. Naproti se otevřela dvířka ovocnářství a Kocourková vystrčila ruku, jestli ještě krápe, pak z krámku vyšla malá malovaná panenka. Pohlédla do našich oken, zamávala a zmizela za rohem. Maminka, Růženka a Gini to vůbec nevnímali. Maminka hleděla na Giniho a mlčela. Růženka hleděla na okenní rám a řekla, že když je to takhle, tak to maso všechno dělat nebude. „Nechám kousek na zítra,“ řekla, „snad se nezkazí. Sysel ho má z jatek.“ Gini řekl, proč pořád koukám z okna… Obrátil jsem se tedy do pokoje a viděl jsem, že medvěd na pohovce i tanečnice ve vitrínce jsou již klidní, avšak babička ve zlatém rámu na zdi nějak divně z toho rámu hledí před sebe, jako by nevěřila vlastním očím, kroutí hlavou a briliant, který má v uchu, se jí chvěje. Neznámý muž v nových černých šatech stál stále za našimi zády, klepal popel na koberec a s úsměškem hleděl přes naše hlavy na ty dva v pláštích na protějším chodníku… Pak pohlédl na mou knížku s obrázky, pak na Giniho mapu Evropy a pak si šel sednout do křesla ke kulatému stolku. A tam, v černém šeru, s cigaretou v ústech, pohlédl do sklenky, zda je v ní ještě kořalka…
 
-  
+</section>
+
+<section>
 
 Večeřeli jsme.
 
@@ -102,3 +106,5 @@ Když se mnou a s petrolejovou lampou vstupovala matka do Giniho ložnice, zd�
 Řekl, jestli hned to pitomé světlo nezhasnu, že mě zmlátí a vyhodí i s lampou…
 
 Déšť klepal na okna, v dálce hřmělo, před domem obcházeli dva v pláštích, hlídali nás, aby k nám nevnikla jediná živá duše… obcházeli a hlídali, ale koho vlastně ještě obcházeli? Koho hlídali? Křišťálový lustr v jídelně visel nad naším prázdným pustým stolem, na němž ležela jen mrtvá moucha, byl vyhaslý, a u paty, kterým se dotýkal stropu – útěk, výzva mně poslednímu, jenž tu zbyl. Ale cítil jsem, že je zbytečná. Zbytečná jako všechno v životě. Déšť stále klepal na okna, někde v dálce slabě hřmělo, kdesi za dveřmi mluvila babička ze spaní o Ginim a o něčem bez duše a já usnul až pozdě k ránu, kdy se v okně začalo objevovat chladné, šedé, blátivé světlo.
+
+</section>

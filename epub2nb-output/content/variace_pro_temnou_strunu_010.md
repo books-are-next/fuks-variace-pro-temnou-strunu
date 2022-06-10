@@ -3,6 +3,8 @@ title: '5'
 contentType: prose
 ---
 
+<section>
+
 Když jsme se vrátili do města, spěchal jsem k ní. Křeslo, do něhož jsem klesl, stálo v šeru, neboť bylo poblíž zadní stěny a venku se už stmívalo. Na kulatém stolku na skle byl jako před léty citrón a jedna sklenka. Když jsem ji vzal do třesoucí se ruky a podržel proti oknu, viděl jsem na jejím dně vlhký pohyblivý nedopitý zbytek. Dal jsem ji zpět na stůl a trochu se pootočil, abych neseděl zády. Nemohl jsem se radovat, protože jsem byl zoufalý a zmatený, ale nemohl jsem si ani příliš zoufat, protože kdesi v duši jsem se musil radovat. Nebylo to černé ani bílé, a kdybych byl měl rozum, byl bych snad věděl, že z toho nemůže vzejít nic než taková _bezvýrazná šeď_. Chtěl jsem _jí_ všechno, co jsem měl na srdci, vyložit, vyříkat a tajně jsem věřil a doufal, že mi něco řekne. Zdvihl jsem k ní oči jako k nebi, ale zčistajasna mě předešla.
 
 „Něco se tuhle v tomto pokoji dělo,“ řekla vídeňským dialektem, „ani nevím co. Ale zato jsem se dozvěděla, že půjde do veřejné školy.“
@@ -204,3 +206,5 @@ Medvěd to zpozoroval a jazykem si otřel rty.
 „A že se tady nezjevuje Günterek? Kde vlastně ten Günterek je? Kde je ten _náš Günterek_, že tu není, co…“
 
 Div mi nevytryskly slzy. Viděl jsem ji v šeru, téměř ve tmě v rámu za sklem na zdi, jak přivírá oči, hledí dolů na pohovku, odkud na ni kouká medvěd, jak naposledy hrabe rukou někde pod sebou, vyjímá hrst cukroví a hází je přes dolní kraj rámu medvědovi. Jak říká tanečnici: „Má zlatá cukrová panenko, nechce také hrstku, hodím jí,“ a tanečnice sklání hlavu a se smutnou tvářičkou a rukama sepjatýma si něco šeptá. Jak medvěd spokojeně mručí, mlaská, polyká a kouká se na mě a pak říká: „Ty se bojíš, ty máš strach, ty přece jenom jezdíš na jelínkovi, že tu kořalku s tím citrónem nedopiješ… nedopiješ aspoň na tu školu, kam za pár dní jdeš, to se má oslavit…,“ viděl jsem a slyšel, ale bylo to marné. Nic jsem jí z toho, co jsem měl na srdci, nevyložil, nic mi neřekla, neřekla dočista nic, jen nějakou hrůzu. Vstal jsem z toho svého křesla a pomalu odcházel pryč. Neřekla dočista nic, napadlo mě u dveří, ale něco přece jenom bylo dobré. Vždyť si mě _aspoň všímala a já s ní mohl mluvit_. Venku byla tma už skoro jako v noci.
+
+</section>

@@ -3,6 +3,8 @@ title: '25'
 contentType: prose
 ---
 
+<section>
+
 V úterý napadl sníh a místo vyučování jsme byli na školním filmu. Dávali „Výrobu zápalek“ a „Sůl nad zlato“, což však nebyla ta známá pohádka, nýbrž film o dobývání soli, a nakonec „Pěstování tabáku“. Bylo to všechno tak nesmírně úchvatné, že Buka po představení řekl, že se mu z toho chce zvracet, a Tieftrunk řekl něco ještě daleko horšího. Jen to „Pěstování tabáku“ vzal trochu na milost, a když jsme vyšli na ulici, zapálil si cigaretu… Ve středu přišel do školy hrnčíř a v kreslírně předváděl, jak se dělá nádobí. Bosou nohou, na níž měl tenkou punčochu bez prstů, šlapal dole kruh, nahoře se mu to točilo a pod rukama mu tam rostl džbánek, Kolomaz na něho vybíral po šestáku. A ve čtvrtek bylo pochodové cvičení.
 
 Šlo celé gymnázium, ale každá třída šla zvlášť a jinam. My jsme šli se svým panem profesorem třídním, dvě hodiny tam a čtyři nazpět, zpola v blátě, zpola ve sněhu, daleko za město. Procházeli jsme několika vesnicemi, v nichž jsem nikdy v životě nebyl, a lidé vybíhali z chalup, zírali na nás, a někteří nám dokonce mávali, jako bychom byli průvod nebo vojáci. V jedné vesnici si Tieftrunk odskočil na malou stranu do hospody, která stála při cestě a byla otevřená, ale věděli jsme, že nejde na malou stranu, nýbrž na pivo, jen Doubek říkal, že může jít na oboje. Tieftrunk nás dohnal až za vsí u jednoho zpola zamrzlého potoka. V lese jsme měli odpočinek, abychom se najedli. Ale nikdo nejedl, neboť každý snědl, co měl z domova, už cestou. Protože bylo vlhko a zima, honili jsme se mezi stromy a lezli do houští, jediný Fürst stál celou tu dobu u stromu, aby si neumazal šaty, a když pan profesor posléze zapískal na píšťalku, scházeli jsme se ze všech stran, mnozí až z velké dálky, až z druhého lesa.
@@ -17,7 +19,9 @@ Zeptal se Tieftrunka, co se dělá z ostranky jaderné, a Tieftrunk řekl, že
 
 Už včera po pochodovém cvičení mi Kchony prozradil, co Katz na dnešek chystá. „Má narozeniny,“ pošeptal mi, „pozve některé na večírek. Oni mají doma úplné sály,“ řekl, „mají okna do ulice… a on zítra o přestávce některé obejde a pozve.“ A teď po zeměpise Katz skutečně některé obcházel a zval. Bez dlouhých řečí a nenápadně, aby dnes ve čtyři k němu přišli, a já přemýšlel, co mu mám přinést. Myslil jsem na to celé dopoledne, v hodinách i o přestávkách, ale nic kloudného mě nenapadlo. Teprve k polednímu mě osvítilo jakési dobré světlo a já si vzpomněl. Na bonboniéru… Na bonboniéru, ale takovou, připomenul jsem si, která se pro něho hodí. S krajinou, kyticí nebo kočkou.
 
-  
+</section>
+
+<section>
 
 Odpoledne mi matka dala dvacet korun. Musil jsem si vzít lepší šaty, bílou košili a kravatu, byla to ta kravata, kterou jsem měl loni u vyslance, a musil jsem si vyčistit boty. Když jsem odcházel, zaslechl jsem, že před pracovnou právě někdo něco říká o páru facek. „Takhle pár facek by potřeboval…,“ a pak jsem slyšel… nevím, co jsem slyšel, vlastně jsem neslyšel už nic, protože jsem vyšel z bytu a třískl dveřmi. Na křižovatce u mydlářství jsem koupil bonboniéru. Byl na ní obrázek malé kočky s mašlí, zabalila mi ji do krásného modrého papíru a převázala stužkou, dal jsem jí dvacet korun, ale stála šestnáct, takže čtyři koruny mi ještě zbyly v kapse. Ke Katzům jsem došel ve čtvrt na pět. Otevřela mi mladší žena v bílé zástěře, zřejmě služebná. Katz mě uvítal na konci dlouhé předsíně, kam vyšel s matkou, krásnou prošedlou paní. Usmála se na mě velmi vlídně a já jí políbil ruku. Katz, který měl tmavé sváteční šaty, řekl, že bohužel jedna věc nevyšla: že není doma otec… „Není doma otec, odjel do lázní se sestrou, je trochu nemocná,“ řekl, „_je to škoda_. Ale co dělat. Pojď…“
 
@@ -74,3 +78,5 @@ Mladší služebná přinesla mísu balíčků, byly v nich zřejmě dorty, byl
 „Jo,“ myslil jsem si, „Mojžíšku! Kdybys věděl, jaké je to u nás doma.“
 
 Na ulici před domem se někteří odpojili, jiní, jako Brachtl, Mínek, Bronowski, Buka a Grund, měli cestu jako já. Kchony se ještě vrátil nahoru, protože si tam zapomněl čepici… a Fürst na chvíli na chodníku z neznámého důvodu zaváhal, jak jít. Vzpomněl jsem si, že si dal balíček s dorty do kapsy a že by se mu tam mohl dobře rozmačkat, náhle jsem do něho trošku strčil. Když vrazil do zdi, divže neupadl, všiml jsem si, že balíček naneštěstí nemá v kapse, ale v ruce, kterou jsem předtím neviděl. Když jsme se blížili ke křižovatce u ulice Karolíny Světlé, vyňal Brachtl pod jednou lampou černobílou skleněnou opici a postavil si ji na okamžik na dlaň. Opice vrhla na jeho dlaň stín a já se zasmál. Z kraje chodníku, kde jsme se prudce zastavili, jsem pohlédl před sebe, těsně kolem nás se hnala auta, a mě napadlo, škoda, že Fürst nešel s námi.
+
+</section>

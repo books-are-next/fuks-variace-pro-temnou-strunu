@@ -3,6 +3,8 @@ title: '16'
 contentType: prose
 ---
 
+<section>
+
 A minul všesokolský slet, přešly prázdniny a přišel opět nový školní rok, nezměnilo se nic, vůbec nic. Šternberský park voněl sluncem a trávou, na květinovém koberci kvetly červené a žluté růže, u pomníku hraběte Šternberka modrobílé a temně červené macešky. U vrat školy znak lva krále, v patře sochy starců, u schodů Laokoon, naše třída s okny do parku měla obrazy dvou prezidentů a kříž, katedru, stupínek, tabuli, vydrhnuté parkety, v zadním rohu kamna v podobě válce, spojeného se zdí rourou, a dvířka na uhlí z chodby… přibyl nám pouze jeden nový předmět, latina.
 
 A venku na ulicích byly tlampače, které zavedli na konci školního roku před všesokolským sletem, na jasném modrém nebi občas kroužila letadla a v novinách plno zpráv jako vždy, noviny jsou vždy plné zpráv, zprávy o různých řečech, schůzkách a jednáních v pohraničí, zprávy o naší německé straně, _jejíž jméno jsem už kdesi slyšel_, o někom, kdo k nám přijel a teď tu byl, o nějakém anglickém lordu, zprávy o situaci vážné, napjaté, tu a tam něco i o válce… zkrátka všechno jako dřív, nic zvláštního, nového, a doma…
@@ -39,13 +41,17 @@ Sotva jsem vešel a dal bonboniéru na stůl, hvězda zatleskala a začala se 
 
 A matka se usmála a začala mě omlouvat, omlouvat, že toho ještě moc neumím, neučím se dlouho…, ale hvězda to vesele přešla a otec hodil hlavou a poručil, abych zahrál. A tak mi nezbývalo než zahrát. Ale než jsem sedl k pianu, jež je v rohu pokoje u zrcadla, musil jsem chtěj nechtěj odběhnout pro noty, které jsou v pokoji u babičky. Nebylo vyhnutí, neboť bez not bych byl nezahrál vůbec nic. A tak když babička viděla, že opět vcházím do pokoje, zeptala se chladně, zda jsme už po večeři a zda snad ta tanečnice z baru s námi také nejedla… Řekl jsem, že ano, i když to nebyla pravda, bylo teprve odpoledne. A tu dřív než mohla babička zas vykřiknout, zeptal se medvěd, zda pro něco nejdu. Zda snad pro noty? Řekl jsem, že ano. Jdu pro noty, protože budu hrát. A tu babička vzdychla a řekla, tak abych vzal tedy něco lehčího. Lehčího, co se hodí pro tanečnici z třídy Hungaria, kde jsou dělostřelecké kasárny… A Míša zvolal, že musím zahrát něco hezkého, protože se musím pochlubit. Zahrát to, co nejlépe umím. A babička vytáhla kostnatou ruku z rámu, mávla jí a řekla, tak ať tedy vezmu „Tichou noc“. Ale medvěd zabručel, že nejsou Vánoce, že je přece začátek září. „No ano, začátek září,“ zabručel a pak na mě koukl a řekl: „Když je tou zpěvačkou v královské opeře v Budapešti, tak zahraj něco uherského. Brahmsův tanec…“ A hned se začal na pohovce natřásat a hýbat rukama a kroutit hlavou a přitom se smál na tanečnici ve vitrínce, která však byla nápadně tichá, tiše hleděla k podstavečku a skoro vůbec nemluvila… A babička zvolala, že je tanečnicí v baru, co je vedle dělostřeleckých kasáren, a té abych zahrál tyrolskou. Třeba Andenkn, když se už musím chtěj nechtěj pochlubit. To že bude pro tanečnici z baru lepší než Brahms. Kterému stejně nerozumí… A začala si tiše prozpěvovat, což se stává velmi zřídka, asi jednou za šest let:
 
-  
+</section>
+
+<section>
 
 _A Blatt von an Bleaml, a Stäuberl an Erd,  
 von an Bodn, den ma liabt von an Land,  
 dös oam werth…_
 
-  
+</section>
+
+<section>
 
 Vzal jsem tedy Almenrausch, sešit tyrolských písní, kde je na čtvrté stránce Andenkn, a vyšel z pokoje. A pak jsem v purpurovém pokoji, kde byli všichni shromážděni, usedl k pianu a hrál Andenkn. A Blatt von an Bleaml… Když jsem skončil a chtěl vstát z židle, začali kromě otce všichni tleskat a matka řekla, abych ještě zahrál nějakou českou… A tak jsem přidal „Teče voda teče“, slovenskou, jež se matce vždy líbila a také prezidentovi, který loni na podzim zemřel a jehož obraz visí vedle jeho nástupce v tomto purpurovém pokoji na zdi… A když jsem skončil, opět tleskali kromě otce a hvězda volala „bravo“, smála se a stále opakovala: „de gyönyörüen játszot, de gyönyörüen játszot, Miska, Misi, gyönyörü fiu, gyönyörü kiss fiu…“ A matka se usmívala a byla spokojena, a snad také otec, i když se neusmíval, netleskal, nemluvil a na mě ani nepohlédl, bylo mi to jedno… a tu, jak jsem tak tu hvězdu viděl, napadlo mě, že je vlastně příjemná a milá, milá a hodná a má mě zřejmě velmi ráda, i když mě vlastně vůbec nezná… a s lítostí jsem pohlédl na stůl k likéru, sklenkám a citrónům, kde ležela její bonboniéra, jíž jsem si nevšímal stejně jako ona, bonboniéra od Špitze…
 
@@ -78,3 +84,5 @@ A tak mi nezbývalo než zase honem běžet domů a zase hned k babičce, aby
 A tu babička zdvihla oči a řekla, že cukroví nevede… Ale že to není pravda, protože jsem tam byl ve dne… Kdybych přišel v noci, viděl bych, co prodá bonboniér… Pod tím pultem, který si tam na noc přináší. A abych tu bonboniéru od otce a jeho bratra nejedl a už nikdy k Špitzovi do Petrské nešel… „Bože, co jsem to jen dělala, že mě takhle trestáš,“ vzdychla a pokojem se ozvalo zařinčení, „vždyť jsem byla vždycky zbožná, chodila k Svatému Michaelu, pálila svíčky, četla ty knížky… nikomu v životě jsem neubližovala, nebo snad ano?… Za chvilku budou Vánoce a on mi o těch prázdninách a škole vůbec nic nepověděl. On mi ani neřekl, co se vůbec děje. Bože, _jak je to už dlouho_, co tu takhle…,“ ale já ani dnes neměl chuť svěřovat se a rozmlouvat, pohlédl jsem na medvěda, který se tajně smál, a na tanečnici ve vitrínce, která stále ještě byla zmlklá a tichá, tiše hleděla k podstavečku a teď si i cosi neslyšně šeptala, a v řinčení, jež pak znovu náhle vyrazilo ze zdi, jsem vyšel z pokoje.
 
 A venku na ulicích tlampače, na jasném modrém nebi letadla a v novinách plno zpráv, samé řeči, schůzky, jednání, jednání a schůzky v pohraničí, německá strana, jejíž jméno jsem znal, a anglický lord, jenž k nám přijel a teď tu byl, zkrátka zprávy o situaci vážné, napjaté a tu a tam něco i o válce… v pokojíku jsem potmě spolkl kouli s rumem a zapnul na chvilku své malé nové rádio u gauče.
+
+</section>

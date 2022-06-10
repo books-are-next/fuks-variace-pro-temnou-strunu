@@ -3,6 +3,8 @@ title: '18'
 contentType: prose
 ---
 
+<section>
+
 Druhý den odpoledne bylo krásně. Seděl za volantem v zelené uniformě s temně červenými výložkami, na nichž se třpytilo zlato, v uniformě, kterou málokdy nosí, dnes ji však vzal, snad proto, že měl kvečeru jet na nějakou hostinu. Ač jsem mu neviděl do tváře, měl jsem dojem, že bděle sleduje ulice, jimiž projíždí, připadal mi tak trochu jako fízl. Já seděl vzadu vedle Růženky, která měla nový oranžový klobouk jménem „Radostný podzim“, a ulice, jimiž jsme projížděli a které on za volantem tak bděle sledoval, jsem téměř nevnímal. Když jsme přejížděli křižovatku s mydlářstvím, strážník, který tam řídil dopravu, si ho za volantem všiml, skočil do pozoru jako žába a salutoval, a tu se mi vzadu na sedadle skoro přitížilo. Když jsem se bezděčně ohlédl, spatřil jsem zadním okénkem, že za námi jede jakási tmavohnědá škodovka. Když jsme zahnuli k Svatému Michaelu a na konci ulice se objevila vysoká kostelní věž, vysoukal jsem větu.
 
 „Prosím tě,“ řekl, aniž přestal sledovat ulici s věží na konci, „jak to mluvíš… kam na tyhle obraty chodíš? Nebo to máš z vlastní hlavy?“ řekl a stiskl páčku, předjel jakousi modrou tatrovku, která pomalu jela před námi. Růženka v oranžovém klobouku na mě koukla, byla celá pryč. Snad proto, že jela někam, kde ještě nikdy v životě nebyla. Po chvíli ticha jsem promluvil zas.
@@ -192,3 +194,5 @@ Otec klepl do stolu a vstal.
 „Pojedeme,“ řekl suše.
 
 Na nádvoří jsme se rozloučili se strýčkem a Francouzem. Růženka si doopravovala svůj Radostný podzim, usmívala se na Francouze a ten se usmíval na ni. Než jsme nasedli do auta, maličko si povytáhl bílý kapesníček ve svém elegantním saku, uklonil se ke svým světlým psím dečkám, pohladil si břicho, kde mu končily vousy, a Růžence políbil ruku. Byla z toho úplně pryč. Když jsme vyjížděli z těžkých železných vrat a naposledy jsme zamávali na nádvoří, pohlédl jsem na límec otcovy uniformy a řekl jsem si: teď nás veze domů, ale sám nevystoupí. Je kvečeru a pojede rovnou na hostinu. Je to divné, že jede na hostinu rovnou z továrny. Mohl jet do továrny v civilu, jak normálně chodí, a teď se stavit doma a převléknout se. A řekl jsem si: a vrátit domů se může v noci nebo k ránu, zase mě chytnout u okna v pokojíku a zeptat se, proč nespím… A řekl jsem si: teď zřejmě zas sleduje ulice, jimiž jede, je jako řízl. Před námi jela tmavohnědá škodovka, když jsem pohlédl zadním okénkem, viděl jsem, že modrá tatrovka nám jede v patách, a ač byla celá modrá, připadala mi jako žlutý měsíc. Budu mlčet, řekl jsem si, co mi je po tom. Co je mi do toho. On sám ví, že jede. A hodně nahlas jsem se zeptal Růženky, která si nadšená a celá pryč ještě trochu rovnala svůj oranžový klobouk, co říká Francouzi…
+
+</section>
